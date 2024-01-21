@@ -31,7 +31,7 @@ Continuiamo chiedendo qual è il nome del computer:
 ```
 $ hostname
 
-debian
+ubuntu
 ```
 
 Oppure qual è la directory di lavoro:
@@ -47,8 +47,8 @@ Infine chiediamo la lista di file e directory presenti nella directory corrente:
 ```
 $ ls
 
-Documenti Immagini Modelli Scaricati Scrivania
-Wallpapers work
+Documenti Immagini Modelli Scaricati
+Scrivania Wallpapers work
 ```
 
 ### Letture
