@@ -4,3 +4,4 @@
 >
 > - Chap 1: Starting with Linux
 > - Chap 2: Creating the Perfect Linux Desktop
+> - Chap 3: Using the Shell
