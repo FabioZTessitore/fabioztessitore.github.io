@@ -53,7 +53,7 @@ Scrivania Wallpapers work
 
 ### Letture
 
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2015, 9th ed
+> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
 >
 > - Chap 3: Using the Shell
 

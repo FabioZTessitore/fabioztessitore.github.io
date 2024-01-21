@@ -89,7 +89,7 @@ Il doppio trattino `--` fa in modo che la parola `help` sia considerata nella su
 
 ### Letture
 
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2015, 9th ed
+> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
 >
 > - Chap 3: Using the Shell
 
