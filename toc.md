@@ -5,3 +5,4 @@
    1. [Le Opzioni dei Comandi](./terminale_linux/opzioni.md)
    1. [Gli Argomenti dei Comandi](./terminale_linux/argomenti.md)
    1. [Lo Storico dei Comandi](./terminale_linux/storico.md)
+   1. [Le Pagine del Manuale](./terminale_linux/manuale.md)
