@@ -1,4 +1,4 @@
-# Il Terminale
+# Il prompt dei comandi
 
 Torna all'[indice](../toc.md)
 

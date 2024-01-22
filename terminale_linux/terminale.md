@@ -1,4 +1,4 @@
-# Il Terminale
+# Il terminale
 
 Torna all'[indice](../toc.md)
 
