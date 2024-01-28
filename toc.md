@@ -13,3 +13,4 @@
    1. [La Struttura del Filesystem](./filesystem_linux/struttura.md)
    1. [Esplorare il Filesystem](./filesystem_linux/esplorare.md)
    1. [Creare file e directory](./filesystem_linux/directory.md)
+   1. [Rimuovere file e directory](./filesystem_linux/rimuovere.md)
