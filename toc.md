@@ -15,3 +15,8 @@
    1. [Creare File e Directory](./filesystem_linux/directory.md)
    1. [Rimuovere File e Directory](./filesystem_linux/rimuovere.md)
    1. [Copiare, Spostare, Rinominare](./filesystem_linux/cpmv.md)
+
+1. Diventare Utente Esperto di Linux
+
+   1. [I Metacaratteri](./poweruser_linux/metacaratteri.md)
+   1. [La Redirezione](./poweruser_linux/redirezione.md)
