@@ -20,3 +20,5 @@
 
    1. [I Metacaratteri](./poweruser_linux/metacaratteri.md)
    1. [La Redirezione](./poweruser_linux/redirezione.md)
+   1. [Le Parentesi Graffe](./poweruser_linux/graffe.md)
+   1. [I Permessi](./poweruser_linux/permessi.md)
