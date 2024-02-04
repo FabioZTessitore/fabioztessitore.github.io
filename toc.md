@@ -25,3 +25,5 @@
    1. [Cambiare i Permessi](./poweruser_linux/cambiare_permessi.md)
    1. [Cambiare il Proprietario](./poweruser_linux/cambiare_proprietario.md)
    1. [Connettere i Comandi](./poweruser_linux/pipes.md)
+   1. [Comandi in Background](./poweruser_linux/background.md)
+   1. [Espansione delle Variabili, delle Espressioni Aritmetiche, dei Comandi](./poweruser_linux/espansione.md)
