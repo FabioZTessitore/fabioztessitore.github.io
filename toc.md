@@ -22,3 +22,5 @@
    1. [La Redirezione](./poweruser_linux/redirezione.md)
    1. [Le Parentesi Graffe](./poweruser_linux/graffe.md)
    1. [I Permessi](./poweruser_linux/permessi.md)
+   1. [Cambiare i Permessi](./poweruser_linux/cambiare_permessi.md)
+   1. [Cambiare il Proprietario](./poweruser_linux/cambiare_proprietario.md)
