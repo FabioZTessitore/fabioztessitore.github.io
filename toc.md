@@ -24,3 +24,4 @@
    1. [I Permessi](./poweruser_linux/permessi.md)
    1. [Cambiare i Permessi](./poweruser_linux/cambiare_permessi.md)
    1. [Cambiare il Proprietario](./poweruser_linux/cambiare_proprietario.md)
+   1. [Connettere i Comandi](./poweruser_linux/pipes.md)
