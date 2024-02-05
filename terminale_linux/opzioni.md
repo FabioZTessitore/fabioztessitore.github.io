@@ -6,7 +6,7 @@ Torna all'[indice](../toc.md)
 
 A volte è necessario cambiare il comportamento dei comandi per ottenere il risultato voluto. Tale variazione si ottiene attraverso le _opzioni_. Per esempio, il comando `ls` permette di ottenere la lista degli oggetti presenti nella directory corrente. Aggiungendo l'opzione `-l` si possono ottenere molte informazioni in più.
 
-```
+```bash
 $ ls -l
 
 totale 36
@@ -19,11 +19,12 @@ drwxr-xr-x  2 fabio fabio  4096 set 18 20:21 Wallpapers
 drwxr-xr-x 25 fabio fabio  4096 ago 31 17:23 work
 ```
 
+> [!IMPORTANT]
 > Non è questo il momento di approfondire il significato di tutte queste informazioni. Si tenga presente, invece, il modo in cui sono state ottenute: attraverso un'opzione (`-l`) data ad un comando (`ls`).
 
 Proviamo qualche altra opzione:
 
-```
+```bash
 $ ls -a
 
 .              .gimp-2.8     Wallpapers
@@ -39,7 +40,7 @@ Documenti      .vim
 
 L'opzione `-a` mostra tutti i file, anche quelli nascosti (hanno il nome che inizia con un puntino).
 
-```
+```bash
 $ ls -t
 
 Scrivania  Scaricati  Documenti  Wallpapers  work  Immagini
@@ -52,7 +53,7 @@ L'opzione `-t` riordina in base alla data di modifica.
 
 Si possono fornire più opzioni ad un comando contemporaneamente:
 
-```
+```bash
 $ ls -l -t
 
 ...
@@ -60,7 +61,7 @@ $ ls -l -t
 
 ma è più comodo raggrupparle:
 
-```
+```bash
 $ ls -lt
 
 drwxr-xr-x 25 fabio fabio  4096 ott 30 20:30 Scrivania
@@ -76,7 +77,7 @@ drwxr-xr-x  2 fabio fabio  4096 ago 26 20:15 Modelli
 
 Alcune opzioni hanno nomi composti da più di una lettera. Per evitare ambiguità si usa il doppio trattino `--`.
 
-```
+```bash
 $ ls --help
 
 Uso: ls [OPZIONE]... [FILE]...
@@ -89,6 +90,7 @@ Il doppio trattino `--` fa in modo che la parola `help` sia considerata nella su
 
 ### Letture
 
+> [!TIP]
 > C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
 >
 > - Chap 3: Using the Shell

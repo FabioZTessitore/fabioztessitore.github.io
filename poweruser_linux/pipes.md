@@ -35,6 +35,7 @@ $ cat /etc/passwd | sort -r
 
 Proviamo questi comandi come esercitazione:
 
+> [!TIP]
 > `du` (disk usage), mostra la dimensione dei file
 
 ```bash
@@ -55,6 +56,7 @@ $ du /bin/* | sort -nr | head
 
 ### Letture
 
+> [!TIP]
 > C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
 >
 > - Chap 3: Using the Shell

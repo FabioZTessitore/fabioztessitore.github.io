@@ -12,7 +12,7 @@ La shell di Linux è uno strumento molto potente, ma a volte le operazioni risul
 
 Usare i tasti freccia semplifica il lavoro, soprattutto quando bisogna digitare comandi lunghi e complessi, ma resta il problema che bisogna continuare a premere `FRECCIA SU` finché non si trova quanto cercato e se il comando desiderato non veniva digitato da molto tempo la ricerca sarà lenta e noiosa. Si può, allora, utilizzare il comando `history` il quale mostra la lista dei comandi digitati insieme ad un comodo indice.
 
-```
+```bash
 $ history
 
 ...
@@ -23,13 +23,13 @@ $ history
 
 Per lanciare il comando `tail` con indice `44`:
 
-```
+```bash
 $ !44
 ```
 
 Se prima di richiamare il comando si vogliono fare delle modifiche c'è `fc`. Si aprirà l'editor di testi predefinito dove si potrà modificare il comando a piacere. Una volta finito basta salvare ed uscire dall'editor e il comando andrà in esecuzione.
 
-```
+```bash
 $ fc 44
 ```
 
@@ -45,6 +45,7 @@ Quando si digitano i comandi, i nomi di file e directory ecc., il tasto `TAB` è
 
 ### Letture
 
+> [!TIP]
 > C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
 >
 > - Chap 3: Using the Shell

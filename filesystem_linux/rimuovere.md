@@ -56,6 +56,7 @@ $ rm -r progetti    # ATTENZIONE, cancella tutto il contenuto di progetti
 
 ### Letture
 
+> [!TIP]
 > C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
 >
 > - Chap 4: Moving Around the Filesystem

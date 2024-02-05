@@ -64,6 +64,7 @@ Viene prima eseguito il comando `ls`, poi la pipe con `wc` (word count) che cont
 
 ### Letture
 
+> [!TIP]
 > C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
 >
 > - Chap 3: Using the Shell

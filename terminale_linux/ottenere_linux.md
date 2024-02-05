@@ -10,6 +10,7 @@ Se non sai quale scegliere, un buon punto di partenza potrebbe essere [Ubuntu](h
 
 ### Letture
 
+> [!TIP]
 > C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
 >
 > - Chap 1: Starting with Linux

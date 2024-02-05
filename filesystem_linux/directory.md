@@ -54,7 +54,8 @@ $ touch hello.js # infine crea il file hello.js
 
 Quando bisogna creare tante directory una dentro l'altra si può usare una scorciatoia: aggiungere l'opzione `-p` a `mkdir`:
 
-> Nota: attraverso l'interfaccia grafica vanno cancellate le directory create in precedenza altrimenti non si potranno ricreare da shell
+> [!CAUTION]
+> Attraverso l'interfaccia grafica vanno cancellate le directory create in precedenza altrimenti non si potranno ricreare da shell
 
 ```bash
 $ cd
@@ -65,6 +66,7 @@ $ touch hello.js
 
 ### Letture
 
+> [!TIP]
 > C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
 >
 > - Chap 4: Moving Around the Filesystem

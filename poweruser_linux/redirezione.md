@@ -28,7 +28,8 @@ Siccome redirigere il contenuto di un file verso un comando è un'operazione mol
 
 Al contrario, il simbolo `>` (anche questo da immaginare come una freccia), redirige l'output di un comando verso un file, mentre normalmente l'output dei comandi finirebbe sullo schermo.
 
-> **Attenzione**, perché se il file indicato esiste già, verrà sovrascritto senza preavviso
+> [!CAUTION]
+> Se il file indicato esiste già, verrà sovrascritto senza preavviso
 
 ```bash
 $ cd
@@ -40,6 +41,7 @@ $ ls
 
 `cat /etc/passwd` mostrerebbe sullo schermo il contenuto del file `/etc/passwd`, ma, grazie alla redirezione, il tutto finisce nel file `copia_password`. In altre parole abbiamo fatto una copia del file.
 
+> [!TIP]
 > Con la redirezione dell'output qualunque cosa possa essere stampata a video può essere copiata in un file
 
 ### Redirezione dello standard error
@@ -62,6 +64,7 @@ $ cat /etc/group >> copia_password # Aggiunge il contenuto di /etc/group a copia
 
 ### Letture
 
+> [!TIP]
 > C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
 >
 > - Chap 4: Moving Around the Filesystem

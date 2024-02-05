@@ -6,3 +6,4 @@
 > - Chap 2: Creating the Perfect Linux Desktop
 > - Chap 3: Using the Shell
 > - Chap 4: Moving Around the Filesystem
+> - Chap 5: Working with Text Files

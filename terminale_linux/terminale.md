@@ -10,6 +10,14 @@ In questo laboratorio si farà largo uso del terminale e quindi è importante sa
 
 In alternativa si può lanciare un'applicazione che _emula_ il terminale. Basta cercarla tra quelle disponibili!
 
+### Letture
+
+> [!TIP]
+> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
+>
+> - Chap 1: Starting with Linux
+> - Chap 2: Creating the Perfect Linux Desktop
+
 ---
 
 Torna all'[indice](../toc.md)

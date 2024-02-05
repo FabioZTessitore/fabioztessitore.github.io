@@ -12,7 +12,7 @@ I comandi principali per esplorare il filesystem sono:
 
 Iniziamo spostandoci nella directory root `/` per mostrarne il contenuto:
 
-```
+```bash
 $ cd /
 $ ls
 
@@ -22,7 +22,7 @@ sbin  tmp  usr  ...
 
 Chiediamo conferma della directory corrente:
 
-```
+```bash
 $ pwd
 
 /
@@ -30,7 +30,7 @@ $ pwd
 
 Proviamo un altro spostamento, questa volta nella directory `/etc`:
 
-```
+```bash
 $ cd /etc
 
 $ pwd
@@ -47,7 +47,7 @@ Per tornare nella propria directory personale esistono vari modi, quindi andiamo
 
 La directory personale ha nome pari al nome utente (`fabio` nel mio caso) e si trova all'interno della directory `/home`.
 
-```
+```bash
 $ cd /home
 $ ls
 
@@ -66,7 +66,7 @@ Siccome tornare alla propria home è un'operazione piuttosto comune esistono del
 
 Innanzitutto si può fare riferimento alla directory personale mediante il simbolo `~` (tilde).
 
-```
+```bash
 $ cd ~
 $ pwd
 
@@ -75,7 +75,7 @@ $ pwd
 
 La tilde è comodissima per riferirsi a directory presenti nella propria home senza dover scrivere percorsi assoluti. Ad esempio, per spostarsi nella propria directory `Documenti`:
 
-```
+```bash
 $ cd ~/Documenti
 $ pwd
 
@@ -84,7 +84,7 @@ $ pwd
 
 Si può anche lanciare il comando `cd` senza argomenti ottenendo lo stesso effetto di `cd ~`.
 
-```
+```bash
 $ cd
 $ pwd
 
@@ -95,7 +95,7 @@ $ pwd
 
 Quando si esegue il comando `ls -a` vengono mostrati due simboli speciali, `.` e `..`.
 
-```
+```bash
 $ cd
 $ pwd
 
@@ -117,7 +117,7 @@ Ad esempio, trovandosi in `/etc`:
 
 Di conseguenza, `..` può essere utilizzato per uscire dalla directory corrente:
 
-```
+```bash
 $ cd /etc
 $ pwd
 
@@ -131,6 +131,7 @@ $ pwd
 
 ### Letture
 
+> [!TIP]
 > C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
 >
 > - Chap 4: Moving Around the Filesystem

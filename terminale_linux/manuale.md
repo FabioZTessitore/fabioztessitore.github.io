@@ -8,7 +8,7 @@ La shell di Linux è uno strumento molto potente e non è semplice ricordare tut
 
 Immaginiamo di voler stampare la data corrente nel formato `gg/mm/aaaa`. Per iniziare proviamo a richiamare il comando `date`:
 
-```
+```bash
 $ date
 
 mer  9 nov 2016, 21.43.59, CET
@@ -16,7 +16,7 @@ mer  9 nov 2016, 21.43.59, CET
 
 `date` fa il suo lavoro, ma il formato in cui viene stampata la data non è quello desiderato. Proviamo, allora, a consultare le pagine del manuale:
 
-```
+```bash
 $ man date
 
 DATE(1)
@@ -40,7 +40,7 @@ Le parentesi quadre indicano argomenti ed opzioni facoltative. Scorrendo la pagi
 
 Mettendo insieme otteniamo:
 
-```
+```bash
 $ date +%x
 
 09/11/2016
@@ -48,7 +48,7 @@ $ date +%x
 
 Si riporta un altro esempio per maggiore chiarezza. Stampa giorno, mese e anno separati da un trattino:
 
-```
+```bash
 $ date +%d-%m-%Y
 
 09-11-2016
@@ -56,6 +56,7 @@ $ date +%d-%m-%Y
 
 ### Letture
 
+> [!TIP]
 > C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
 >
 > - Chap 3: Using the Shell

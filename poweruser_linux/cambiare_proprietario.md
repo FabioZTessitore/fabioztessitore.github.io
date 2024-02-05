@@ -28,6 +28,7 @@ $ ls -l test
 
 ### Letture
 
+> [!TIP]
 > C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
 >
 > - Chap 4: Moving Around the Filesystem

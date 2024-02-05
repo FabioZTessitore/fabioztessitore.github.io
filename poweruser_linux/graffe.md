@@ -45,6 +45,7 @@ a1 a2 a3 a4 a5 b1 b2 b3 ... f4 f5
 
 ### Letture
 
+> [!TIP]
 > C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
 >
 > - Chap 4: Moving Around the Filesystem

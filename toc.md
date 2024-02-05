@@ -27,3 +27,6 @@
    1. [Connettere i Comandi](./poweruser_linux/pipes.md)
    1. [Comandi in Background](./poweruser_linux/background.md)
    1. [Espansione delle Variabili, delle Espressioni Aritmetiche, dei Comandi](./poweruser_linux/espansione.md)
+   1. [Gli Alias](./poweruser_linux/alias.md)
+   1. [Dove sono i Comandi](./poweruser_linux/dove.md)
+   1. [L'Ambiente della Shell](./poweruser_linux/ambiente.md)

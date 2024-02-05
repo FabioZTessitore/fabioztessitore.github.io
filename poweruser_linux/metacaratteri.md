@@ -43,6 +43,7 @@ $ ls g*e
 garage
 ```
 
+> [!TIP]
 > Un eventuale file di nome `ge` sarebbe stato mostrato perché `*` significa **zero o più** caratteri.
 
 Allo stesso modo si può chiedere la lista dei file che hanno una `'e'` nel nome, in posizione qualsiasi:
@@ -87,6 +88,7 @@ ape bici grappolo ghepardo garage
 
 ### Letture
 
+> [!TIP]
 > C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
 >
 > - Chap 4: Moving Around the Filesystem
