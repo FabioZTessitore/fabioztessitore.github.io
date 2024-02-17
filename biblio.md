@@ -7,3 +7,5 @@
 > - Chap 3: Using the Shell
 > - Chap 4: Moving Around the Filesystem
 > - Chap 5: Working with Text Files
+> - Chap 6: Managing Running Processes
+> - Chap 7: Writing Simple Shell Script

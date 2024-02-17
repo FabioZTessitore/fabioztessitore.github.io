@@ -30,3 +30,5 @@
    1. [Gli Alias](./poweruser_linux/alias.md)
    1. [Dove sono i Comandi](./poweruser_linux/dove.md)
    1. [L'Ambiente della Shell](./poweruser_linux/ambiente.md)
+   1. [Cercare File](./poweruser_linux/cercare.md)
+   1. [Cercare nei File](./poweruser_linux/grep.md)
