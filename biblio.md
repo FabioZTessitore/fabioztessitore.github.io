@@ -16,3 +16,7 @@
 > - Chap 2: Introducing the Shell
 > - Chap 3: Rerunning Commands
 > - Chap 4: Cruising the Filesystem
+> - Chap 5: Expanding Your Toolbox
+> - Chap 6: Parents, Children, and Environments
+> - Chap 7: 11 More Ways to Run a Command
+> - Chap 8: Building a Brash One-Liner
