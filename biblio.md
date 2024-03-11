@@ -31,3 +31,11 @@
 > - [Install Git](https://www.atlassian.com/git/tutorials/install-git)
 > - [Setting up a repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 > - [Saving Changes](https://www.atlassian.com/git/tutorials/saving-changes)
+
+> C. Musciano, B. Kennedy, _HTML & XHTML, The Definitive Guide_, O'Reilly, 2006, 6th ed
+>
+> - Chap 1: HTML, XHTML, and the World Wide Web
+> - Chap 2: Quick Start
+> - Chap 3: Anatomy of an HTML Document
+> - Chap 4: Text Basics
+> - Chap 5: Rules, Images, and Multimedia

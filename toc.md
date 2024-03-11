@@ -39,3 +39,8 @@
    1. [Clonare una Repository](./git/clonare.md)
    1. [Effettuare Modifiche](./git/modificare.md)
    1. [Un Semplice Modello di Collaborazione](./git/collaborare.md)
+
+1. Le pagine HTML
+
+   1. [Struttura di una Pagina HTML](./html/dochtml.md)
+   1. [Gestione del Testo](./html/testo.md)
