@@ -39,3 +39,18 @@
 > - Chap 3: Anatomy of an HTML Document
 > - Chap 4: Text Basics
 > - Chap 5: Rules, Images, and Multimedia
+> - Chap 6: Links and Webs
+> - Chap 7: Formatted Lists
+
+> _HTML Dog_, [www.htmldog.com](https://www.htmldog.com/)
+>
+> HTML Tutorial
+>
+> - [Getting Started](https://www.htmldog.com/guides/html/beginner/gettingstarted/)
+> - [Tags, Attributes, and Elements](https://www.htmldog.com/guides/html/beginner/tags/)
+> - [Page Titles](https://www.htmldog.com/guides/html/beginner/titles/)
+> - [Paragraphs](https://www.htmldog.com/guides/html/beginner/paragraphs/)
+> - [Headings](https://www.htmldog.com/guides/html/beginner/headings/)
+> - [Lists](https://www.htmldog.com/guides/html/beginner/lists/)
+> - [Links](https://www.htmldog.com/guides/html/beginner/links/)
+> - [Images](https://www.htmldog.com/guides/html/beginner/images/)

@@ -151,6 +151,15 @@ L'altro sito, [Lorem Picsum](https://picsum.photos/), riguarda invece le immagin
 > - Chap 2: Quick Start
 > - Chap 3: Anatomy of an HTML Document
 
+> [!TIP] > _HTML Dog_, [www.htmldog.com](https://www.htmldog.com/)
+>
+> HTML Tutorial
+>
+> - [Getting Started](https://www.htmldog.com/guides/html/beginner/gettingstarted/)
+> - [Tags, Attributes, and Elements](https://www.htmldog.com/guides/html/beginner/tags/)
+> - [Page Titles](https://www.htmldog.com/guides/html/beginner/titles/)
+> - [Paragraphs](https://www.htmldog.com/guides/html/beginner/paragraphs/)
+
 ---
 
 Torna all'[indice](../toc.md)

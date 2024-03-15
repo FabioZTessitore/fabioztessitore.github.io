@@ -47,6 +47,13 @@ Per spezzare un lungo testo in sezioni più piccole esistono sei livelli di inte
 > - Chap 4: Text Basics
 > - Chap 5: Rules, Images, and Multimedia
 
+> [!TIP] > _HTML Dog_, [www.htmldog.com](https://www.htmldog.com/)
+>
+> HTML Tutorial
+>
+> - [Headings](https://www.htmldog.com/guides/html/beginner/headings/)
+> - [Images](https://www.htmldog.com/guides/html/beginner/images/)
+
 ---
 
 Torna all'[indice](../toc.md)
