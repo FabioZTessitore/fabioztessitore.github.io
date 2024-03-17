@@ -11,16 +11,6 @@
 > - Chap 7: Writing Simple Shell Script
 
 > D. J. Barrett, _Efficient Linux at the Command Line_, O'Reilly, 2022
->
-> - Chap 1: Combining Commands
-> - Chap 2: Introducing the Shell
-> - Chap 3: Rerunning Commands
-> - Chap 4: Cruising the Filesystem
-> - Chap 5: Expanding Your Toolbox
-> - Chap 6: Parents, Children, and Environments
-> - Chap 7: 11 More Ways to Run a Command
-> - Chap 8: Building a Brash One-Liner
-> - Chap 9: Leveraging Text Files
 
 > _Getting Git Right_, [www.atlassian.com/git](https://www.atlassian.com/git)
 >
