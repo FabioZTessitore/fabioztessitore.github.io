@@ -41,6 +41,9 @@
 > - Chap 5: Rules, Images, and Multimedia
 > - Chap 6: Links and Webs
 > - Chap 7: Formatted Lists
+<!-- > - Chap 8: Cascading Style Sheets --> 
+<!-- > - Chap 9: Forms --> 
+> - Chap 10: Tables 
 
 > _HTML Dog_, [www.htmldog.com](https://www.htmldog.com/)
 >
@@ -54,3 +57,4 @@
 > - [Lists](https://www.htmldog.com/guides/html/beginner/lists/)
 > - [Links](https://www.htmldog.com/guides/html/beginner/links/)
 > - [Images](https://www.htmldog.com/guides/html/beginner/images/)
+> - [Tables](https://www.htmldog.com/guides/html/beginner/tables/)

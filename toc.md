@@ -45,3 +45,8 @@
    1. [Struttura di una Pagina HTML](./html/dochtml.md)
    1. [Gestione del Testo](./html/testo.md)
    1. [Collegamenti Ipertestuali](./html/links.md)
+   1. [Le Liste](./html/lists.md)
+   1. [Le Tabelle](./html/tables.md)
+   <!-- 1. [Esercizio: documento di testo]() -->
+   <!-- 1. [I Form](./html/forms.md) -->
+   <!-- 1. [Esercizio: form]() -->
