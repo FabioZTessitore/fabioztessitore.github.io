@@ -91,6 +91,15 @@ $ pwd
 /home/fabio
 ```
 
+Un altro utilizzo molto comune e molto utile di `cd` è quello che permette di tornare alla directory precedente.
+
+```bash
+$ cd
+$ cd Documenti/progetti/javascript/modelli/src  # facciamo finta di essere in una cartella molto profonda
+$ cd    ### OPS! così torniamo alla home
+$ cd -  # nessun problema, torniamo in src
+```
+
 ### Directory speciali
 
 Quando si esegue il comando `ls -a` vengono mostrati due simboli speciali, `.` e `..`.
