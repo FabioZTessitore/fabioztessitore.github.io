@@ -33,6 +33,8 @@
    1. [Cercare File](./poweruser_linux/cercare.md)
    1. [Cercare nei File](./poweruser_linux/grep.md)
 
+1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md)
+
 1. [Diventare Amministratore di Linux](./sysadmin_linux/letture.md)
 
 1. Git
