@@ -9,6 +9,11 @@
 > - Chap 5: Working with Text Files
 > - Chap 6: Managing Running Processes
 > - Chap 7: Writing Simple Shell Script
+> - Chap 8: Learning System Administration
+> - Chap 9: Installing Linux
+> - Chap 10: Getting and Managing Software
+> - Chap 11: Managing User Accounts
+> - Chap 12: Managing Disks and Filesystems
 
 > D. J. Barrett, _Efficient Linux at the Command Line_, O'Reilly, 2022
 
@@ -31,9 +36,11 @@
 > - Chap 5: Rules, Images, and Multimedia
 > - Chap 6: Links and Webs
 > - Chap 7: Formatted Lists
-<!-- > - Chap 8: Cascading Style Sheets --> 
-<!-- > - Chap 9: Forms --> 
-> - Chap 10: Tables 
+
+<!-- > - Chap 8: Cascading Style Sheets -->
+<!-- > - Chap 9: Forms -->
+
+> - Chap 10: Tables
 
 > _HTML Dog_, [www.htmldog.com](https://www.htmldog.com/)
 >

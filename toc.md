@@ -33,6 +33,8 @@
    1. [Cercare File](./poweruser_linux/cercare.md)
    1. [Cercare nei File](./poweruser_linux/grep.md)
 
+1. [Diventare Amministratore di Linux](./sysadmin_linux/letture.md)
+
 1. Git
 
    1. [git e github.com](./git/git_github.md)
@@ -47,6 +49,6 @@
    1. [Collegamenti Ipertestuali](./html/links.md)
    1. [Le Liste](./html/lists.md)
    1. [Le Tabelle](./html/tables.md)
-   <!-- 1. [Esercizio: documento di testo]() -->
-   <!-- 1. [I Form](./html/forms.md) -->
-   <!-- 1. [Esercizio: form]() -->
+      <!-- 1. [Esercizio: documento di testo]() -->
+      <!-- 1. [I Form](./html/forms.md) -->
+      <!-- 1. [Esercizio: form]() -->
