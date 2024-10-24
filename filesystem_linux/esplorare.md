@@ -45,7 +45,8 @@ $ ls
 
 Per tornare nella propria directory personale esistono vari modi, quindi andiamo per gradi.
 
-La directory personale ha nome pari al nome utente (`fabio` nel mio caso) e si trova all'interno della directory `/home`.
+La directory personale ha nome pari al nome utente (`fabio` nel mio caso) e si
+trova all'interno della directory `/home`.
 
 ```bash
 $ cd /home
@@ -58,9 +59,12 @@ $ cd fabio
 
 #### Percorsi assoluti e relativi
 
-Nell'ultimo comando, `cd fabio`, non c'è il simbolo `/` prima del nome della directory. Infatti la directory `fabio` non si trova all'interno della root `/`, ma all'interno della `/home` (in cui già ci troviamo).
+Nell'ultimo comando, `cd fabio`, non c'è il simbolo `/` prima del nome della directory.
+Infatti la directory `fabio` non si trova all'interno della root `/`, ma all'interno
+della `/home` (in cui già ci troviamo).
 
-In altre parole, il percorso `/home/fabio` è un _percorso assoluto_ (parte da `/`), mentre `fabio` è un _percorso relativo_ (relativo alla directory corrente, `home`, in cui ci troviamo).
+In altre parole, il percorso `/home/fabio` è un _percorso assoluto_ (parte da `/`),
+mentre `fabio` è un _percorso relativo_ (relativo alla directory corrente, `home`, in cui ci troviamo).
 
 Siccome tornare alla propria home è un'operazione piuttosto comune esistono delle scorciatoie.
 
@@ -73,7 +77,8 @@ $ pwd
 /home/fabio
 ```
 
-La tilde è comodissima per riferirsi a directory presenti nella propria home senza dover scrivere percorsi assoluti. Ad esempio, per spostarsi nella propria directory `Documenti`:
+La tilde è comodissima per riferirsi a directory presenti nella propria home senza
+dover scrivere percorsi assoluti. Ad esempio, per spostarsi nella propria directory `Documenti`:
 
 ```bash
 $ cd ~/Documenti
@@ -91,7 +96,8 @@ $ pwd
 /home/fabio
 ```
 
-Un altro utilizzo molto comune e molto utile di `cd` è quello che permette di tornare alla directory precedente.
+Un altro utilizzo molto comune e molto utile di `cd` è quello che permette di
+tornare alla directory precedente.
 
 ```bash
 $ cd

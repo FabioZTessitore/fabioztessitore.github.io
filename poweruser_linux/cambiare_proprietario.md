@@ -4,7 +4,11 @@ Torna all'[indice](../toc.md)
 
 ---
 
-Per cambiare proprietario (o gruppo proprietario o entrambi) a un file si usa il comando `chown`. Per ovvie ragioni un utente normale non può cambiare il proprietario di un file che non gli appartiene. In altre parole non può intestarsi la proprietà dei file altrui. Questa operazione può essere eseguita solo dall'utente `root` oppure da un utente che abbia permessi di amministratore.
+Per cambiare proprietario (o gruppo proprietario o entrambi) a un file si
+usa il comando `chown`. Per ovvie ragioni un utente normale non può cambiare
+il proprietario di un file che non gli appartiene. In altre parole non può
+intestarsi la proprietà dei file altrui. Questa operazione può essere
+eseguita solo dall'utente `root` oppure da un utente che abbia permessi di amministratore.
 
 Facciamo un esempio:
 

@@ -12,7 +12,9 @@ Ai vari permessi sono associati dei numeri (come i pesi delle cifre di un numero
 - `w` = 2
 - `x` = 1
 
-Ad es., se sono stati impostati i permessi `r--` il valore corrispondente sarà 4. Invece `rw-` corrisponde a `4 + 2 = 6`. Allo stesso modo `r-x` è equivalente a `4 + 1 = 5` e `rwx` a `4 + 2 + 1 = 7`.
+Ad es., se sono stati impostati i permessi `r--` il valore corrispondente
+sarà 4. Invece `rw-` corrisponde a `4 + 2 = 6`. Allo stesso modo `r-x` è
+equivalente a `4 + 1 = 5` e `rwx` a `4 + 2 + 1 = 7`.
 
 Il comando che permette di cambiare i permessi è `chmod`:
 
@@ -36,7 +38,8 @@ $ ls -l file_test
 
 ### Cambiare i permessi con le lettere
 
-I permessi possono essere aggiunti e tolti anche mediante i simboli `+` e `-`; ad es. `+r` aggiunge il permesso di lettura, `-r` lo revoca.
+I permessi possono essere aggiunti e tolti anche mediante i simboli
+`+` e `-`; ad es. `+r` aggiunge il permesso di lettura, `-r` lo revoca.
 
 Usando le lettere bisogna specificare a chi si vogliono aggiungere o togliere permessi:
 

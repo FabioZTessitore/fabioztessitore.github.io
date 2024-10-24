@@ -6,24 +6,36 @@ Torna all'[indice](../toc.md)
 
 ### GitHub
 
-[GitHub.com](https://github.com) è un servizio online creato per facilitare la collaborazione tra sviluppatori. Prima di iniziare ad usarlo bisogna registrarsi.
+[GitHub.com](https://github.com) è un servizio online creato per facilitare
+la collaborazione tra sviluppatori. Prima di iniziare ad usarlo bisogna registrarsi.
 
 Una volta effettuato il primo accesso non sarà difficile capire come creare una nuova _repository_.
 
 > [!INFO]
 > Una repository non è altro che una directory ospitata sui server di GitHub.com
 
-Alla creazione di una nuova repository, si consiglia vivamente di mettere la spunta su "creazione di un file README". Così facendo, quando la repository remota verrà clonata sul proprio computer (e a breve vedremo come fare), sarà già presente questo file su cui effettueremo le prime operazioni.
+Alla creazione di una nuova repository, si consiglia vivamente di mettere la
+spunta su "creazione di un file README". Così facendo, quando la repository
+remota verrà clonata sul proprio computer (e a breve vedremo come fare), sarà
+già presente questo file su cui effettueremo le prime operazioni.
 
-Inoltre, nelle impostazioni del progetto, si possono aggiungere dei collaboratori. A dispetto del nome non è il metodo migliore per collaborare, ma sarà molto utile in queste fasi iniziali, nel caso si abbia bisogno di aiuto da parte di qualcuno più esperto.
+Inoltre, nelle impostazioni del progetto, si possono aggiungere dei collaboratori.
+A dispetto del nome non è il metodo migliore per collaborare, ma sarà molto utile
+in queste fasi iniziali, nel caso si abbia bisogno di aiuto da parte di qualcuno più esperto.
 
 ### git
 
-Una delle operazioni fondamentali quando si scrive codice è la gestione delle modifiche al codice stesso. Questa operazione prende il nome di _controllo delle versioni_.
+Una delle operazioni fondamentali quando si scrive codice è la gestione delle modifiche
+al codice stesso. Questa operazione prende il nome di _controllo delle versioni_.
 
-`git` è un sistema di _controllo delle versioni_ creato da Linus Torvalds, il padre di Linux, che si sposa molto bene con il servizio GitHub.com (ma può essere utilizzato anche solo in locale o in congiunzione con altri sistemi).
+`git` è un sistema di _controllo delle versioni_ creato da Linus Torvalds, il padre
+di Linux, che si sposa molto bene con il servizio GitHub.com (ma può essere utilizzato
+anche solo in locale o in congiunzione con altri sistemi).
 
-Dopo aver installato `git` sul proprio sistema, prima di poterlo utilizzare, è necessario effettuare una configurazione. In particolare, le informazioni minime da fornire sono il proprio nome e la propria email. Questi dettagli verranno associati ai _commit_ creati in seguito.
+Dopo aver installato `git` sul proprio sistema, prima di poterlo utilizzare,
+è necessario effettuare una configurazione. In particolare, le informazioni minime
+da fornire sono il proprio nome e la propria email. Questi dettagli verranno
+associati ai _commit_ creati in seguito.
 
 ```bash
 $ git config --global user.name "YOUR NAME HERE"

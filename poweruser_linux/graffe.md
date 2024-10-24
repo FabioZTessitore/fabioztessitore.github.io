@@ -4,7 +4,9 @@ Torna all'[indice](../toc.md)
 
 ---
 
-Grazie alle parentesi graffe si possono ottenere risultati sorprendenti con poco sforzo. Ad esempio, per creare i file `test1`, `test2`, `test3`, `test4` e `test5`, non è necessario ripetere la parola `"test"` ogni volta:
+Grazie alle parentesi graffe si possono ottenere risultati sorprendenti con poco sforzo.
+Ad esempio, per creare i file `test1`, `test2`, `test3`, `test4` e `test5`, non è
+necessario ripetere la parola `"test"` ogni volta:
 
 ```bash
 $ cd
@@ -14,7 +16,9 @@ $ ls test*
 test1 test2 test3 test4 test5
 ```
 
-Ora immaginiamo di voler creare delle directory per i nostri progetti in `C`, in `Python` e in `JavaScript`, sia per l'utente `fabio` che per l'utente `claudio`. Potremmo creare le directory una alla volta:
+Ora immaginiamo di voler creare delle directory per i nostri progetti in `C`, in
+`Python` e in `JavaScript`, sia per l'utente `fabio` che per l'utente `claudio`.
+Potremmo creare le directory una alla volta:
 
 ```bash
 $ mkdir fabio_c fabio_python ... # ma che noia!

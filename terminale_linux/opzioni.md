@@ -4,7 +4,11 @@ Torna all'[indice](../toc.md)
 
 ---
 
-A volte è necessario cambiare il comportamento dei comandi per ottenere il risultato voluto. Tale variazione si ottiene attraverso le _opzioni_. Per esempio, il comando `ls` permette di ottenere la lista degli oggetti presenti nella directory corrente. Aggiungendo l'opzione `-l` si possono ottenere molte informazioni in più.
+A volte è necessario cambiare il comportamento dei comandi per ottenere il
+risultato voluto. Tale variazione si ottiene attraverso le _opzioni_.
+Per esempio, il comando `ls` permette di ottenere la lista degli oggetti
+presenti nella directory corrente. Aggiungendo l'opzione `-l` si possono
+ottenere molte informazioni in più.
 
 ```bash
 $ ls -l
@@ -20,7 +24,9 @@ drwxr-xr-x 25 fabio fabio  4096 ago 31 17:23 work
 ```
 
 > [!IMPORTANT]
-> Non è questo il momento di approfondire il significato di tutte queste informazioni. Si tenga presente, invece, il modo in cui sono state ottenute: attraverso un'opzione (`-l`) data ad un comando (`ls`).
+> Non è questo il momento di approfondire il significato di tutte queste
+> informazioni. Si tenga presente, invece, il modo in cui sono state ottenute:
+> attraverso un'opzione (`-l`) data ad un comando (`ls`).
 
 Proviamo qualche altra opzione:
 
@@ -86,7 +92,8 @@ List information about the FILEs
 ...
 ```
 
-Il doppio trattino `--` fa in modo che la parola `help` sia considerata nella sua interezza e non come una lista di opzioni separate.
+Il doppio trattino `--` fa in modo che la parola `help` sia considerata
+nella sua interezza e non come una lista di opzioni separate.
 
 ### Letture
 

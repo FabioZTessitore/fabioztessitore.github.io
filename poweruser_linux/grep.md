@@ -4,13 +4,16 @@ Torna all'[indice](../toc.md)
 
 ---
 
-A volte c'è bisogno non di cercare un particolare file, ma di cercare del testo all'interno di un file o di un gruppo di file. A questo scopo si usa il comando `grep`.
+A volte c'è bisogno non di cercare un particolare file, ma di cercare del testo
+all'interno di un file o di un gruppo di file. A questo scopo si usa il comando `grep`.
 
 ```bash
 $ grep PS1 ~/.bashrc # Cerca la stringa PS1 in $HOME/.bashrc
 ```
 
-Ovviamente `grep` può essere usato mediante pipe per fare ricerche sullo standard output. Immaginiamo, per esempio, un comando che restituisce molto testo e di essere interessati solo alle linee contenenti certe parole.
+Ovviamente `grep` può essere usato mediante pipe per fare ricerche sullo standard
+output. Immaginiamo, per esempio, un comando che restituisce molto testo e di essere
+interessati solo alle linee contenenti certe parole.
 
 ```bash
 $ history | grep git # Cerca i comandi git nello storico

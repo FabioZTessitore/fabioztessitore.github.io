@@ -10,14 +10,18 @@ Una volta aperto un terminale, molto probabilmente vedrai un testo simile a ques
 fabio@ubuntu ~ $
 ```
 
-È il _prompt_. Il terminale informa che il nome utente è **fabio**, che il nome del computer su cui si sta lavorando è **ubuntu**, che ci si trova nella directory personale, indicata con **~** (tilde), e che l'utente è non amministratore (simbolo **$**). Inoltre il terminale è in attesa di ricevere comandi.
+È il _prompt_. Il terminale informa che il nome utente è **fabio**, che il
+nome del computer su cui si sta lavorando è **ubuntu**, che ci si trova
+nella directory personale, indicata con **~** (tilde), e che l'utente è
+non amministratore (simbolo **$**). Inoltre il terminale è in attesa di ricevere comandi.
 
 ### I primi comandi
 
 Per eseguire un comando basta scriverne il nome e battere `INVIO`.
 
 > [!NOTE]
-> Tieni presente che in questa fase non è importante comprendere il significato dell'output stampato sul terminale.
+> Tieni presente che in questa fase non è importante comprendere
+> il significato dell'output stampato sul terminale.
 
 Per cominciare chiediamo data e ora:
 

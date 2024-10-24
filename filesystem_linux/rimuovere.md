@@ -4,7 +4,8 @@ Torna all'[indice](../toc.md)
 
 ---
 
-La shell permette anche di rimuovere file e directory. Per iniziare creiamo un file di nome `primo.c` nella home.
+La shell permette anche di rimuovere file e directory. Per iniziare creiamo un file
+di nome `primo.c` nella home.
 
 ```bash
 $ cd
@@ -41,11 +42,16 @@ $ ls
 ...
 ```
 
-Se, invece, c'è anche solo un file all'interno, `rmdir` fallirà. Per poter utilizzare `rmdir`, prima di eliminare la directory stessa, vanno cancellati i file presenti al suo interno.
+Se, invece, c'è anche solo un file all'interno, `rmdir` fallirà. Per poter utilizzare
+`rmdir`, prima di eliminare la directory stessa, vanno cancellati i file presenti al suo interno.
 
 ### Rimuovere una directory
 
-Se, però, immaginiamo una situazione comune in cui all'interno della directory in questione ci sono non solo file, ma anche altre directory, ognuna delle quali potrebbe contenere file e directory a sua volta ... insomma non è consigliabile proseguire su questa strada. Per fortuna il comando `rm` (quello usato per rimuovere i file) possiede l'opzione `-r` che permette di eliminare _ricorsivamente_ tutto ciò che si trova all'interno di una directory:
+Se, però, immaginiamo una situazione comune in cui all'interno della directory in questione
+ci sono non solo file, ma anche altre directory, ognuna delle quali potrebbe contenere
+file e directory a sua volta ... insomma non è consigliabile proseguire su questa strada.
+Per fortuna il comando `rm` (quello usato per rimuovere i file) possiede l'opzione `-r`
+che permette di eliminare _ricorsivamente_ tutto ciò che si trova all'interno di una directory:
 
 ```bash
 $ cd

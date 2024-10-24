@@ -48,14 +48,19 @@ $ mv esercizio.c prog/
 
 ### Copiare directory
 
-Per copiare una directory si usa sempre `cp`, ma bisogna aggiungere l'opzione `-r` affinché la copia sia ricorsiva. Creiamo una directory `progetti` e inseriamo al suo interno vari file e directory. Infine proviamo a copiarla:
+Per copiare una directory si usa sempre `cp`, ma bisogna aggiungere l'opzione `-r`
+affinché la copia sia ricorsiva. Creiamo una directory `progetti` e inseriamo
+al suo interno vari file e directory. Infine proviamo a copiarla:
 
 ```bash
 $ cp -r progetti progetti_backup_2016_11_27
 ```
 
 > [!TIP]
-> Per spostare o rinominare una directory (comando `mv`) non è necessaria l'opzione `-r`. Infatti in questi casi si sta modificando il nome e/o la posizione della directory, ma non il suo contenuto. Se, invece, la si vuole copiare, bisogna fare una copia di tutto ciò che contiene e quindi si deve usare l'opzione `-r` per effettuare un'operazione ricorsiva.
+> Per spostare o rinominare una directory (comando `mv`) non è necessaria l'opzione `-r`.
+> Infatti in questi casi si sta modificando il nome e/o la posizione della directory,
+> ma non il suo contenuto. Se, invece, la si vuole copiare, bisogna fare una copia di
+> tutto ciò che contiene e quindi si deve usare l'opzione `-r` per effettuare un'operazione ricorsiva.
 
 ### Letture
 

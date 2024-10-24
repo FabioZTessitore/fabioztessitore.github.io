@@ -4,7 +4,10 @@ Torna all'[indice](../toc.md)
 
 ---
 
-Se è stato aggiunto qualche collaboratore esperto alla repository, anche questi potrà effettuare modifiche ai file. Per questa ragione può accadere che i file locali non siano aggiornati. In altre parole, prima di iniziare ad effettuare modifiche bisogna sempre scaricare la versione aggiornata con:
+Se è stato aggiunto qualche collaboratore esperto alla repository, anche questi
+potrà effettuare modifiche ai file. Per questa ragione può accadere che i file
+locali non siano aggiornati. In altre parole, prima di iniziare ad effettuare
+modifiche bisogna sempre scaricare la versione aggiornata con:
 
 ```bash
 $ cd ~/test # assicuriamoci di essere nella directory giusta

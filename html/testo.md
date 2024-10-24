@@ -6,7 +6,11 @@ Torna all'[indice](../toc.md)
 
 ### Suddividere il testo in sezioni
 
-Sappiamo già che se vogliamo strutturare il testo in paragrafi dobbiamo utilizzare il tag `p`. Più paragrafi in relazione tra loro possono essere raggruppati mediante il tag `div`. Inizialmente nato come strumento per organizzare il testo in sezioni distinte, può essere utile per impostare alcune proprietà che i vari paragrafi hanno in comune, come, ad esempio, il colore, l'allineamento e così via.
+Sappiamo già che se vogliamo strutturare il testo in paragrafi dobbiamo utilizzare
+il tag `p`. Più paragrafi in relazione tra loro possono essere raggruppati mediante
+il tag `div`. Inizialmente nato come strumento per organizzare il testo in sezioni
+distinte, può essere utile per impostare alcune proprietà che i vari paragrafi hanno in
+comune, come, ad esempio, il colore, l'allineamento e così via.
 
 ```html
 <!-- alcuni paragrafi correlati tra loro -->
@@ -27,7 +31,8 @@ Sappiamo già che se vogliamo strutturare il testo in paragrafi dobbiamo utilizz
 
 ### Le intestazioni
 
-Per spezzare un lungo testo in sezioni più piccole esistono sei livelli di intestazione, corrispondenti ai tag `h1`, `h2`, `h3`, `h4`, `h5`, `h6`.
+Per spezzare un lungo testo in sezioni più piccole esistono sei livelli di
+intestazione, corrispondenti ai tag `h1`, `h2`, `h3`, `h4`, `h5`, `h6`.
 
 ```html
 <h1>Intestazione di primo livello</h1>

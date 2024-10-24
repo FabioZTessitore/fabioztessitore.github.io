@@ -46,6 +46,8 @@
 >
 > HTML Tutorial
 >
+> > HTML Beginner Tutorial
+>
 > - [Getting Started](https://www.htmldog.com/guides/html/beginner/gettingstarted/)
 > - [Tags, Attributes, and Elements](https://www.htmldog.com/guides/html/beginner/tags/)
 > - [Page Titles](https://www.htmldog.com/guides/html/beginner/titles/)
@@ -55,3 +57,13 @@
 > - [Links](https://www.htmldog.com/guides/html/beginner/links/)
 > - [Images](https://www.htmldog.com/guides/html/beginner/images/)
 > - [Tables](https://www.htmldog.com/guides/html/beginner/tables/)
+>
+> > HTML Intermediate Tutorial
+>
+> - [Span and Div](https://www.htmldog.com/guides/html/intermediate/spandiv/)
+> - [Text: Abbreviations, Quotations, and Code](https://www.htmldog.com/guides/html/intermediate/text/)
+> - [Meta Tags](https://www.htmldog.com/guides/html/intermediate/metatags/)
+> - [Tables: rowspan and colspan](https://www.htmldog.com/guides/html/intermediate/tables/)
+> - [Description Lists](https://www.htmldog.com/guides/html/intermediate/definitionlists/)
+> - [Text: Addresses, Definitions, Bi-directional, and Editorial](https://www.htmldog.com/guides/html/intermediate/text2/)
+> - [Sectioning](https://www.htmldog.com/guides/html/intermediate/sectioning/)

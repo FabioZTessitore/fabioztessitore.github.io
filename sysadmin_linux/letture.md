@@ -4,7 +4,8 @@ Torna all'[indice](../toc.md)
 
 ---
 
-Un amministratore di sistema si occupa di installare Linux su una macchina, gestire il software installato, gli account utente e i dischi.
+Un amministratore di sistema si occupa di installare Linux su una macchina,
+gestire il software installato, gli account utente e i dischi.
 Per saperne di più consiglio le seguenti letture:
 
 ### Letture

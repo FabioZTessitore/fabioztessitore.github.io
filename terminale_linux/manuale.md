@@ -4,9 +4,11 @@ Torna all'[indice](../toc.md)
 
 ---
 
-La shell di Linux è uno strumento molto potente e non è semplice ricordare tutto a memoria. Ci vengono in aiuto le _pagine del manuale_.
+La shell di Linux è uno strumento molto potente e non è semplice ricordare tutto
+a memoria. Ci vengono in aiuto le _pagine del manuale_.
 
-Immaginiamo di voler stampare la data corrente nel formato `gg/mm/aaaa`. Per iniziare proviamo a richiamare il comando `date`:
+Immaginiamo di voler stampare la data corrente nel formato `gg/mm/aaaa`.
+Per iniziare proviamo a richiamare il comando `date`:
 
 ```bash
 $ date
@@ -14,7 +16,8 @@ $ date
 mer  9 nov 2016, 21.43.59, CET
 ```
 
-`date` fa il suo lavoro, ma il formato in cui viene stampata la data non è quello desiderato. Proviamo, allora, a consultare le pagine del manuale:
+`date` fa il suo lavoro, ma il formato in cui viene stampata la data non è
+quello desiderato. Proviamo, allora, a consultare le pagine del manuale:
 
 ```bash
 $ man date
@@ -36,7 +39,8 @@ Nella parte alta si legge come usare il comando. In questo caso
 
 `date [OPTION]... [+FORMAT]`
 
-Le parentesi quadre indicano argomenti ed opzioni facoltative. Scorrendo la pagina troviamo la lista dei possibili formati di stampa della data.
+Le parentesi quadre indicano argomenti ed opzioni facoltative. Scorrendo la
+pagina troviamo la lista dei possibili formati di stampa della data.
 
 Mettendo insieme otteniamo:
 
@@ -46,7 +50,8 @@ $ date +%x
 09/11/2016
 ```
 
-Si riporta un altro esempio per maggiore chiarezza. Stampa giorno, mese e anno separati da un trattino:
+Si riporta un altro esempio per maggiore chiarezza. Stampa giorno,
+mese e anno separati da un trattino:
 
 ```bash
 $ date +%d-%m-%Y
