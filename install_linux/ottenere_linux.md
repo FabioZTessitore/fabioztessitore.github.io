@@ -15,6 +15,7 @@ Se non sai quale scegliere, un buon punto di partenza potrebbe essere [Ubuntu](h
 >
 > - Chap 1: Starting with Linux
 > - Chap 2: Creating the Perfect Linux Desktop
+> - Chap 9: Installing Linux
 
 ---
 

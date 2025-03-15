@@ -4,13 +4,14 @@
 >
 > - Chap 1: Starting with Linux
 > - Chap 2: Creating the Perfect Linux Desktop
-> - Chap 3: Using the Shell
+> - Chap 9: Installing Linux
+
+<!-- > - Chap 3: Using the Shell
 > - Chap 4: Moving Around the Filesystem
 > - Chap 5: Working with Text Files
 > - Chap 6: Managing Running Processes
 > - Chap 7: Writing Simple Shell Script
 > - Chap 8: Learning System Administration
-> - Chap 9: Installing Linux
 > - Chap 10: Getting and Managing Software
 > - Chap 11: Managing User Accounts
 > - Chap 12: Managing Disks and Filesystems
@@ -36,10 +37,8 @@
 > - Chap 5: Rules, Images, and Multimedia
 > - Chap 6: Links and Webs
 > - Chap 7: Formatted Lists
-
-<!-- > - Chap 8: Cascading Style Sheets -->
-<!-- > - Chap 9: Forms -->
-
+> - Chap 8: Cascading Style Sheets
+> - Chap 9: Forms
 > - Chap 10: Tables
 
 > _HTML Dog_, [www.htmldog.com](https://www.htmldog.com/)
@@ -57,7 +56,9 @@
 > - [Links](https://www.htmldog.com/guides/html/beginner/links/)
 > - [Images](https://www.htmldog.com/guides/html/beginner/images/)
 > - [Tables](https://www.htmldog.com/guides/html/beginner/tables/)
->
+> - [Forms](https://www.htmldog.com/guides/html/beginner/forms/)
+> - [Putting It All Together](https://www.htmldog.com/guides/html/beginner/conclusion/)
+
 > > HTML Intermediate Tutorial
 >
 > - [Span and Div](https://www.htmldog.com/guides/html/intermediate/spandiv/)
@@ -66,4 +67,4 @@
 > - [Tables: rowspan and colspan](https://www.htmldog.com/guides/html/intermediate/tables/)
 > - [Description Lists](https://www.htmldog.com/guides/html/intermediate/definitionlists/)
 > - [Text: Addresses, Definitions, Bi-directional, and Editorial](https://www.htmldog.com/guides/html/intermediate/text2/)
-> - [Sectioning](https://www.htmldog.com/guides/html/intermediate/sectioning/)
+> - [Sectioning](https://www.htmldog.com/guides/html/intermediate/sectioning/) -->
