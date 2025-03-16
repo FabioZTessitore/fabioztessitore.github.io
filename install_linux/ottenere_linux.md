@@ -8,15 +8,6 @@ Per poter usufruire dei contenuti del Laboratorio hai bisogno di una distribuzio
 
 Se non sai quale scegliere, un buon punto di partenza potrebbe essere [Ubuntu](https://www.ubuntu-it.org/).
 
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 1: Starting with Linux
-> - Chap 2: Creating the Perfect Linux Desktop
-> - Chap 9: Installing Linux
-
 ---
 
 Torna all'[indice](../toc.md)
