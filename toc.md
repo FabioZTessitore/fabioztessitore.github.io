@@ -1,6 +1,11 @@
 1. Installazione di Linux
 
    1. [Ottenere Linux](./install_linux/ottenere_linux.md)
+   1. C. Negus, Linux Bible, Chap 1: Starting with Linux
+   1. C. Negus, Linux Bible, Chap 2: Creating the Perfect Linux Desktop
+   1. C. Negus, Linux Bible, Chap 9: Installing Linux
+   1. [Come CREARE una MACCHINA VIRTUALE su VIRTUALBOX (Windows, Ubuntu)](https://youtu.be/ZdeGbnRkT_c?feature=shared)
+   1. [Installare Ubuntu 24.10](https://youtu.be/POYlMKTV1Js?feature=shared)
    1. [Installare Linux](./install_linux/installazione.md)
 
 <!-- 1. Il Terminale di Linux -->
