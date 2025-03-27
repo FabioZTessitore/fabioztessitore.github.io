@@ -16,7 +16,7 @@ Torna all'[indice](../toc.md)
 1. Se preferisci installare su hardware, scarica l'immagine ISO e crea una chiavetta USB avviabile (es. Rufus), configura il
    BIOS per avviare da USB e procedi con l'installazione.
 
-1. Al termine aggiorna il sistema e installa l'editor di testi Visual Studio Code.
+1. Al termine aggiorna il sistema e installa l'editor Visual Studio Code.
 
 ---
 
