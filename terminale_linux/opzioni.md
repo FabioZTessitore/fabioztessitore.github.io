@@ -95,13 +95,6 @@ List information about the FILEs
 Il doppio trattino `--` fa in modo che la parola `help` sia considerata
 nella sua interezza e non come una lista di opzioni separate.
 
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 3: Using the Shell
-
 ---
 
 Torna all'[indice](../toc.md)

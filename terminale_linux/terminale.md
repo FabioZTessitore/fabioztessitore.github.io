@@ -23,14 +23,6 @@ e quindi per tornare ad essa si utilizza la combinazione `CTRL ALT F1` o `CTRL A
 In alternativa si può lanciare un'applicazione che _emula_ il terminale.
 Basta cercarla tra quelle disponibili!
 
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 1: Starting with Linux
-> - Chap 2: Creating the Perfect Linux Desktop
-
 ---
 
 Torna all'[indice](../toc.md)

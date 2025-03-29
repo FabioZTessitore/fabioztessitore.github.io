@@ -21,7 +21,7 @@ Per eseguire un comando basta scriverne il nome e battere `INVIO`.
 
 > [!NOTE]
 > Tieni presente che in questa fase non è importante comprendere
-> il significato dell'output stampato sul terminale.
+> il significato dell'output stampato dai comandi sul terminale.
 
 Per cominciare chiediamo data e ora:
 
@@ -55,13 +55,6 @@ $ ls
 Documenti Immagini Modelli Scaricati
 Scrivania Wallpapers work
 ```
-
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 3: Using the Shell
 
 ---
 

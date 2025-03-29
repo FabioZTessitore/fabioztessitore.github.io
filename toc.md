@@ -8,16 +8,16 @@
    1. [Installare Ubuntu 24.10](https://youtu.be/POYlMKTV1Js?feature=shared)
    1. [Installare Linux](./install_linux/installazione.md)
 
-<!-- 1. Il Terminale di Linux -->
+1. Il Terminale di Linux
 
-   <!--
    1. [Il Terminale](./terminale_linux/terminale.md)
    1. [Il Prompt dei Comandi](./terminale_linux/prompt.md)
    1. [Le Opzioni dei Comandi](./terminale_linux/opzioni.md)
    1. [Gli Argomenti dei Comandi](./terminale_linux/argomenti.md)
    1. [Lo Storico dei Comandi](./terminale_linux/storico.md)
    1. [Le Pagine del Manuale](./terminale_linux/manuale.md)
-      -->
+   1. C. Negus, Linux Bible, Chap 3: Using the Shell
+   1. [Esercizio: download e lettura di un file](./terminale_linux/file.md)
 
 <!-- 1. Il Filesystem di Linux -->
 

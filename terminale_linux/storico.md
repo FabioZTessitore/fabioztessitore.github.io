@@ -11,7 +11,7 @@ risultano ripetitive. Esistono, però, diversi modi per semplificare e
 velocizzare il lavoro. La shell, infatti, memorizza i comandi eseguiti
 e permette di richiamarli in maniera facile e veloce premendo i tasti
 `FRECCIA SU` e `FRECCIA GIÙ`. Quando si trova quello che si stava
-cercando non bisogna fare altro che premere `Invio` come al solito.
+cercando non bisogna fare altro che premere `INVIO` come al solito.
 
 ### Il comando `history`
 
@@ -31,7 +31,7 @@ $ history
 ...
 ```
 
-Per lanciare il comando `tail` con indice `44`:
+Per lanciare il comando `tail`, che ha indice `44`:
 
 ```bash
 $ !44
@@ -62,13 +62,6 @@ il comando corrispondente trovato.
 Quando si digitano i comandi, i nomi di file e directory ecc.,
 il tasto `TAB` è di grande aiuto. Permette il completamento automatico
 facendo risparmiare tempo e fatica ed evitando, al contempo, anche errori di battitura.
-
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 3: Using the Shell
 
 ---
 
