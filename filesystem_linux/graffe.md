@@ -6,7 +6,7 @@ Torna all'[indice](../toc.md)
 
 Grazie alle parentesi graffe si possono ottenere risultati sorprendenti con poco sforzo.
 Ad esempio, per creare i file `test1`, `test2`, `test3`, `test4` e `test5`, non è
-necessario ripetere la parola `"test"` ogni volta:
+necessario ripetere la parola `test` ogni volta:
 
 ```bash
 $ cd
@@ -44,15 +44,9 @@ Il doppio punto `..` serve per specificare intervalli:
 ```bash
 $ touch {a..f}-{1..5}
 $ ls
+
 a1 a2 a3 a4 a5 b1 b2 b3 ... f4 f5
 ```
-
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 4: Moving Around the Filesystem
 
 ---
 

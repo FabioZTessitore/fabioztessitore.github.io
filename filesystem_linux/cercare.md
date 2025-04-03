@@ -35,7 +35,7 @@ $ locate -i bashrc
 ### Cercare file con `find`
 
 In alternativa a `locate` c'è `find`. Si tratta di uno strumento molto più potente
-anche se più lento perché effettua la ricerca nel filesystem stesso. Permette di
+anche se più lento perché effettua la ricerca nel filesystem. Permette di
 effettuare ricerche in base a vari criteri: nome del file, proprietà, permessi,
 dimensioni, data di modifica, ecc. Visto che `find` cerca nel filesystem, si può
 velocizzare la ricerca limitandola ad alcune parti di esso:
@@ -117,7 +117,7 @@ La stessa cosa si può fare per i gruppi:
 $ find $HOME -group fabio -ls
 ```
 
-Una cosa molto utile potrebbe essere cercare file che _non_ ci appartengono:
+Una cosa molto utile potrebbe essere cercare file che **non** ci appartengono:
 
 ```bash
 $ find $HOME -not -user $USER -ls
@@ -217,14 +217,6 @@ e poi riordiniamo in ordine decrescente.
 ```bash
 $ find /home -size +5M -exec du {} \\; | sort -nr
 ```
-
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 3: Using the Shell
-> - Chap 5: Working with Text Files
 
 ---
 

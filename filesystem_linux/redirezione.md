@@ -75,13 +75,4 @@ contenuto. In questi casi possiamo usare `>>`:
 $ cat /etc/group >> copia_password # Aggiunge il contenuto di /etc/group a copia_password
 ```
 
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 4: Moving Around the Filesystem
-
----
-
 Torna all'[indice](../toc.md)
