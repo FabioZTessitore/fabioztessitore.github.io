@@ -29,24 +29,19 @@
 
    1. [La Struttura del Filesystem](./filesystem_linux/struttura.md)
    1. [Esplorare il Filesystem](./filesystem_linux/esplorare.md)
-   <!-- 1. [Creare File e Directory](./filesystem_linux/directory.md)
+   1. [Creare File e Directory](./filesystem_linux/directory.md)
    1. [I Metacaratteri](./filesystem_linux/metacaratteri.md)
    1. [La Redirezione](./filesystem_linux/redirezione.md)
+   1. [Le Parentesi Graffe](./filesystem_linux/graffe.md)
    1. [I Permessi](./filesystem_linux/permessi.md)
-   1. [Rimuovere File e Directory](./filesystem_linux/rimuovere.md)
+   1. [Cambiare i Permessi](./filesystem_linux/cambiare_permessi.md)
+   1. [Cambiare il Proprietario](./filesystem_linux/cambiare_proprietario.md)
    1. [Copiare, Spostare, Rinominare](./filesystem_linux/cpmv.md)
+   1. [Rimuovere File e Directory](./filesystem_linux/rimuovere.md)
    1. C. Negus, Linux Bible, Chap 4: Moving Around the Filesystem
-   1. C. Negus, Linux Bible, Chap 5: Working with Text Files -->
-
-<!-- 1. Diventare Utente Esperto di Linux -->
-
-<!--
-1.  [Le Parentesi Graffe](./poweruser_linux/graffe.md)
-1.  [Cambiare i Permessi](./poweruser_linux/cambiare_permessi.md)
-1.  [Cambiare il Proprietario](./poweruser_linux/cambiare_proprietario.md)
-1.  [Cercare File](./poweruser_linux/cercare.md)
-1.  [Cercare nei File](./poweruser_linux/grep.md)
--->
+   1. [Cercare File](./poweruser_linux/cercare.md)
+   1. [Cercare nei File](./poweruser_linux/grep.md)
+   1. C. Negus, Linux Bible, Chap 5: Working with Text Files
 
 <!-- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
 

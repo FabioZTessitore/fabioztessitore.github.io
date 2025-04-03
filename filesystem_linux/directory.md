@@ -48,13 +48,13 @@ e di voler inserire il file `hello.js` all'interno di `helloworld/`:
 
 ```bash
 $ cd # assicuriamoci di essere nella home
-$ mkdir progetti # crea progetti/ ed entra
+$ mkdir progetti   # crea progetti/ ed entra
 $ cd progetti
 $ mkdir javascript # crea javascript/ ed entra
 $ cd javascript
 $ mkdir helloworld # crea helloworld/ ed entra
 $ cd helloworld
-$ touch hello.js # infine crea il file hello.js
+$ touch hello.js   # infine crea il file hello.js
 ```
 
 Quando bisogna creare tante directory una dentro l'altra si può usare una
@@ -70,13 +70,6 @@ $ mkdir -p progetti/javascript/helloworld
 $ cd progetti/javascript/helloworld # TAB TAB TAB
 $ touch hello.js
 ```
-
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 4: Moving Around the Filesystem
 
 ---
 

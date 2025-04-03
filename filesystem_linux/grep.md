@@ -25,14 +25,7 @@ $ history | grep git # Cerca i comandi git nello storico
 - `-v` mostra solo le righe che _non_ contengono il testo;
 - `-r` ricerca ricorsiva nella directory;
 - `-l` (usato con -r) mostra solo i nomi dei file in cui è presente il testo;
-- `--color` colora le parole cercate
-
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 5: Working with Text Files
+- `--color` colora le parole cercate.
 
 ---
 

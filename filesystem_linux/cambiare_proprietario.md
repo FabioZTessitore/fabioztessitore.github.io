@@ -30,13 +30,6 @@ $ ls -l test
 -rw-r--r-- 1 root root 0 dic  8 16:33 test
 ```
 
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 4: Moving Around the Filesystem
-
 ---
 
 Torna all'[indice](../toc.md)

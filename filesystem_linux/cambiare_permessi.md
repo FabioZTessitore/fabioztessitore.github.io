@@ -82,13 +82,6 @@ $ ls -l file_test2
 -rwxr-xr-- 1 fabio fabio 0 dic 8 16:12 file_test2
 ```
 
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 4: Moving Around the Filesystem
-
 ---
 
 Torna all'[indice](../toc.md)

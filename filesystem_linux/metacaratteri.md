@@ -11,7 +11,7 @@ contemporaneamente senza doverne scrivere il nome per esteso.
 
 - `*` significa qualunque sequenza di caratteri (anche nessuno);
 - `?` significa un carattere qualsiasi (però solo e soltanto uno);
-- `[abcxyz]` significa un carattere qualsiasi tra quelli elencati tra parentesi;
+- `[abcxyz]` significa un carattere qualsiasi tra quelli elencati tra parentesi.
 
 Ecco qualche esempio di utilizzo:
 
@@ -96,13 +96,6 @@ $ ls [a-g]* # lettera iniziale compresa tra 'a' e 'g'
 
 ape bici grappolo ghepardo garage
 ```
-
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 4: Moving Around the Filesystem
 
 ---
 

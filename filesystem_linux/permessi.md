@@ -38,7 +38,7 @@ Ogni utente può appartenere ad uno o più _gruppi_. In molti sistemi, quando
 si crea un utente si crea anche un gruppo con lo stesso nome, e si inserisce l'utente in quel gruppo.
 
 Nella stampa precedente la seconda e la terza colonna riportano il nome `fabio`.
-La prima volta è il nome del _proprietario_</em> del file (l'utente), la seconda
+La prima volta è il nome del _proprietario_ del file (l'utente), la seconda
 volta è il nome del _gruppo proprietario_ del file.
 
 Per capire il senso di tutto ciò bisogna parlare dei permessi. I permessi
@@ -96,7 +96,7 @@ significato dei simboli:
 - `r`, permesso di lettura, indica la possibilità di leggere la lista dei file contenuti;
 - `w`, permesso di scrittura, indica la possibilità di aggiungere, cancellare
   o modificare file (ad esempio cambiarne il nome);
-- `x`, permesso di accedere e attraversare la directory;
+- `x`, permesso di accedere e attraversare la directory.
 
 Quindi, nel caso dell'esempio, l'utente `fabio` può fare tutto: leggere
 il contenuto della directory, modificarlo (creando file ecc.), e accedere
@@ -104,13 +104,6 @@ ad essa. Resta da chiarire cosa significa attraversare una directory.
 Immaginiamo che nella directory `css` sia presente un'altra directory,
 chiamiamola `base`. Si potrebbe voler effettuare l'operazione `cd css/base`
 per _attraversare_ `css` in modo da raggiungere `base`.
-
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 4: Moving Around the Filesystem
 
 ---
 

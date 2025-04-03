@@ -62,13 +62,6 @@ $ cp -r progetti progetti_backup_2016_11_27
 > ma non il suo contenuto. Se, invece, la si vuole copiare, bisogna fare una copia di
 > tutto ciò che contiene e quindi si deve usare l'opzione `-r` per effettuare un'operazione ricorsiva.
 
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 4: Moving Around the Filesystem
-
 ---
 
 Torna all'[indice](../toc.md)
