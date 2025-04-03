@@ -21,13 +21,6 @@ Per far ritornare in primo piano (_foreground_) il comando lanciato precedenteme
 $ fg
 ```
 
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 3: Using the Shell
-
 ---
 
 Torna all'[indice](../toc.md)

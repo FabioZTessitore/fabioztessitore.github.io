@@ -27,8 +27,8 @@ Proviamo ad impostare un nuovo alias:
 $ alias rm='rm -i'
 ```
 
-D'ora in avanti il comando `rm` sarà interpretato come `rm -i`. Sulle pagine del
-manuale si può scoprire cosa significa `-i`.
+D'ora in avanti il comando `rm` sarà interpretato come `rm -i` e prima di rimuovere qualche
+file verrà chiesto il consenso a procedere.
 
 Proviamo con un gruppo di comandi ricordando che per lanciare comandi in sequenza si usa il `;`.
 
@@ -36,21 +36,13 @@ Proviamo con un gruppo di comandi ricordando che per lanciare comandi in sequenz
 $ alias p='pwd; ls -CF'
 ```
 
-`pwd` mostra la directory corrente. `ls` il suo contenuto. E le pagine del manuale
-ci diranno cosa significano `-C` e `-F`.
+`pwd` mostra la directory corrente. `ls` il suo contenuto utilizzando una visualizzazione a colonne.
 
 Per rimuovere un alias esiste il comando `unalias`:
 
 ```bash
 $ unalias p
 ```
-
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 3: Using the Shell
 
 ---
 

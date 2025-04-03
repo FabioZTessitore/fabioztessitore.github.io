@@ -7,7 +7,7 @@ Torna all'[indice](../toc.md)
 Uno dei principi alla base della progettazione dei comandi della shell di Linux
 è _fai una sola cosa, ma falla bene_. Ma, allora, se ogni comando esegue una
 singola operazione elementare, come si possono soddisfare tutte le esigenze
-di gestione ed amministrazione di un sistema? La risposta sta nel _combinare_
+di gestione e amministrazione di un sistema? La risposta sta nel _combinare_
 i comandi tra loro in modo da ottenere le funzionalità necessarie.
 
 ### Comandi sequenziali
@@ -28,10 +28,7 @@ lun 26 dic 2016, 19.57.32, CET
 
 Un altro strumento per connettere comandi, molto più potente del primo,
 è la _pipe_. Una pipe (operatore `|`) permette di redirigere l'output di
-un comando verso l'input di un altro. Abbiamo già parlato di redirezione
-quando si trattava di redirigere l'output di un comando verso un file
-invece che verso il terminale. Una pipe permette un'operazione simile,
-solo che l'output di un comando viene rediretto verso un altro comando.
+un comando verso l'input di un altro.
 Il comando successivo può fare delle operazioni sull'output del comando
 precedente in modo da ottenere il risultato voluto.
 
@@ -49,9 +46,7 @@ Lo stesso esempio, ma stampa in ordine inverso:
 $ cat /etc/passwd | sort -r
 ```
 
-Proviamo questi comandi come esercitazione:
-
-> [!TIP] > `du` (disk usage), mostra la dimensione dei file
+Proviamo questi comandi come esercitazione (`du` (disk usage), mostra la dimensione dei file):
 
 ```bash
 $ du /bin/*
@@ -69,13 +64,6 @@ Come prima, ma mostra solo i primi dieci elementi grazie a `head`
 ```bash
 $ du /bin/* | sort -nr | head
 ```
-
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 3: Using the Shell
 
 ---
 

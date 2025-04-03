@@ -36,8 +36,7 @@ un programma presente nella directory corrente.
 Un'altra cosa. Non tutto ciò che viene invocato dalla shell ha un file
 corrispondente nel filesystem. Finora abbiamo parlato di comandi e abbiamo
 detto che ogni comando è un file eseguibile presente in una particolare
-directory, ma questa cosa non è sempre vera. Consideriamo ad esempio gli
-alias. Quando creiamo un alias non stiamo creando un file!
+directory, ma questa cosa non è sempre vera.
 
 La shell cerca i comandi in un ordine ben preciso:
 
@@ -77,13 +76,6 @@ $ type -a ls
 ls ha "ls --color=auto" come alias
 ls e' /bin/ls
 ```
-
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 3: Using the Shell
 
 ---
 

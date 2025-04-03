@@ -71,13 +71,6 @@ Viene prima eseguito il comando `ls`, poi la pipe con `wc` (word count) che cont
 le parole (opzione `-w`). Infine avviene la stampa con `echo` del numero di file
 nella directory (il numero di parole contato da `wc -w`).
 
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 3: Using the Shell
-
 ---
 
 Torna all'[indice](../toc.md)

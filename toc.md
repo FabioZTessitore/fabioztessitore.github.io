@@ -14,35 +14,39 @@
    1. [Il Prompt dei Comandi](./terminale_linux/prompt.md)
    1. [Le Opzioni dei Comandi](./terminale_linux/opzioni.md)
    1. [Gli Argomenti dei Comandi](./terminale_linux/argomenti.md)
+   1. [Dove sono i Comandi](./terminale_linux/dove.md)
    1. [Lo Storico dei Comandi](./terminale_linux/storico.md)
+   1. [Connettere i Comandi](./terminale_linux/pipes.md)
+   1. [Comandi in Background](./terminale_linux/background.md)
+   1. [Espansione delle Variabili, delle Espressioni Aritmetiche, dei Comandi](./terminale_linux/espansione.md)
+   1. [Gli Alias](./terminale_linux/alias.md)
+   1. [L'Ambiente della Shell](./terminale_linux/ambiente.md)
    1. [Le Pagine del Manuale](./terminale_linux/manuale.md)
    1. C. Negus, Linux Bible, Chap 3: Using the Shell
    1. [Esercizio: download e lettura di un file](./terminale_linux/file.md)
 
-<!-- 1. Il Filesystem di Linux -->
+1. Il Filesystem di Linux
 
-   <!-- 1. [La Struttura del Filesystem](./filesystem_linux/struttura.md)
+   1. [La Struttura del Filesystem](./filesystem_linux/struttura.md)
    1. [Esplorare il Filesystem](./filesystem_linux/esplorare.md)
-   1. [Creare File e Directory](./filesystem_linux/directory.md)
+   <!-- 1. [Creare File e Directory](./filesystem_linux/directory.md)
+   1. [I Metacaratteri](./filesystem_linux/metacaratteri.md)
+   1. [La Redirezione](./filesystem_linux/redirezione.md)
+   1. [I Permessi](./filesystem_linux/permessi.md)
    1. [Rimuovere File e Directory](./filesystem_linux/rimuovere.md)
-   1. [Copiare, Spostare, Rinominare](./filesystem_linux/cpmv.md) -->
+   1. [Copiare, Spostare, Rinominare](./filesystem_linux/cpmv.md)
+   1. C. Negus, Linux Bible, Chap 4: Moving Around the Filesystem
+   1. C. Negus, Linux Bible, Chap 5: Working with Text Files -->
 
 <!-- 1. Diventare Utente Esperto di Linux -->
 
-   <!-- 1. [I Metacaratteri](./poweruser_linux/metacaratteri.md)
-   1. [La Redirezione](./poweruser_linux/redirezione.md)
-   1. [Le Parentesi Graffe](./poweruser_linux/graffe.md)
-   1. [I Permessi](./poweruser_linux/permessi.md)
-   1. [Cambiare i Permessi](./poweruser_linux/cambiare_permessi.md)
-   1. [Cambiare il Proprietario](./poweruser_linux/cambiare_proprietario.md)
-   1. [Connettere i Comandi](./poweruser_linux/pipes.md)
-   1. [Comandi in Background](./poweruser_linux/background.md)
-   1. [Espansione delle Variabili, delle Espressioni Aritmetiche, dei Comandi](./poweruser_linux/espansione.md)
-   1. [Gli Alias](./poweruser_linux/alias.md)
-   1. [Dove sono i Comandi](./poweruser_linux/dove.md)
-   1. [L'Ambiente della Shell](./poweruser_linux/ambiente.md)
-   1. [Cercare File](./poweruser_linux/cercare.md)
-   1. [Cercare nei File](./poweruser_linux/grep.md) -->
+<!--
+1.  [Le Parentesi Graffe](./poweruser_linux/graffe.md)
+1.  [Cambiare i Permessi](./poweruser_linux/cambiare_permessi.md)
+1.  [Cambiare il Proprietario](./poweruser_linux/cambiare_proprietario.md)
+1.  [Cercare File](./poweruser_linux/cercare.md)
+1.  [Cercare nei File](./poweruser_linux/grep.md)
+-->
 
 <!-- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
 

@@ -52,7 +52,7 @@ La shell di Linux mette a disposizione strumenti diversi per eseguire
 le stesse operazioni. In questo modo ognuno troverà quello che più si
 addice alle proprie esigenze.
 
-Digitiamo, ad esempio, la combinazione di tasti `CTRL+R`. Da questo
+Digitiamo, ad esempio, la combinazione di tasti `CTRL R`. Da questo
 momento in poi, ogni volta che si digita un carattere, il terminale
 effettuerà una ricerca all'indietro (dal più recente al meno) mostrando
 il comando corrispondente trovato.

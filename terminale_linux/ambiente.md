@@ -82,13 +82,6 @@ $ cd $P
 
 per raggiungere la directory.
 
-### Letture
-
-> [!TIP]
-> C. Negus, _Linux Bible_, Indianapolis, Wiley &amp; Sons, 2020, 10th ed
->
-> - Chap 3: Using the Shell
-
 ---
 
 Torna all'[indice](../toc.md)

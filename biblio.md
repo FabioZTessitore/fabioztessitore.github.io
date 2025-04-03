@@ -5,10 +5,10 @@
 > - Chap 1: Starting with Linux
 > - Chap 2: Creating the Perfect Linux Desktop
 > - Chap 3: Using the Shell
+> - Chap 4: Moving Around the Filesystem
+> - Chap 5: Working with Text Files
 > - Chap 9: Installing Linux
 
-<!-- > - Chap 4: Moving Around the Filesystem -->
-<!-- > - Chap 5: Working with Text Files -->
 <!-- > - Chap 6: Managing Running Processes -->
 <!-- > - Chap 7: Writing Simple Shell Script -->
 <!-- > - Chap 8: Learning System Administration -->
