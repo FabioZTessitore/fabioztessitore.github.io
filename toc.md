@@ -39,11 +39,9 @@
    1. [Copiare, Spostare, Rinominare](./filesystem_linux/cpmv.md)
    1. [Rimuovere File e Directory](./filesystem_linux/rimuovere.md)
    1. C. Negus, Linux Bible, Chap 4: Moving Around the Filesystem
-
-1. [Cercare File](./poweruser_linux/cercare.md)
-1. [Cercare nei File](./poweruser_linux/grep.md)
-1. C. Negus, Linux Bible, Chap 5: Working with Text Files -->
-<!--
+   1. [Cercare File](./poweruser_linux/cercare.md)
+   1. [Cercare nei File](./poweruser_linux/grep.md)
+   1. C. Negus, Linux Bible, Chap 5: Working with Text Files
 
 <!-- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
 
