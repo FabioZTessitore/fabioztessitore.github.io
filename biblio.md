@@ -18,13 +18,14 @@
 
 <!-- > D. J. Barrett, _Efficient Linux at the Command Line_, O'Reilly, 2022 -->
 
-<!-- > _Getting Git Right_, [www.atlassian.com/git](https://www.atlassian.com/git) -->
-<!-- > -->
-<!-- > - [What is Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control) -->
-<!-- > - [Source code management](https://www.atlassian.com/git/tutorials/source-code-management) -->
-<!-- > - [What is Git](https://www.atlassian.com/git/tutorials/what-is-git) -->
-<!-- > - [Why Git for your organization](https://www.atlassian.com/git/tutorials/why-git) -->
-<!-- > - [Install Git](https://www.atlassian.com/git/tutorials/install-git) -->
+> _Getting Git Right_, [atlassian.com/git](https://www.atlassian.com/git)
+>
+> - [What is Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control)
+> - [Source code management](https://www.atlassian.com/git/tutorials/source-code-management)
+> - [What is Git](https://www.atlassian.com/git/tutorials/what-is-git)
+> - [Why use Git for your organization?](https://www.atlassian.com/git/tutorials/why-git)
+> - [How to install Git ](https://www.atlassian.com/git/tutorials/install-git)
+
 <!-- > - [Setting up a repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 > - [Saving Changes](https://www.atlassian.com/git/tutorials/saving-changes) -->
 

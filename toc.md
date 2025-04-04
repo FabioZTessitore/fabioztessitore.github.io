@@ -43,16 +43,22 @@
    1. [Cercare nei File](./poweruser_linux/grep.md)
    1. C. Negus, Linux Bible, Chap 5: Working with Text Files
 
+1. Git e GitHub
+
+   1. [git e github.com](./git/git_github.md)
+   1. atlassian.com, _Getting Git Right_, [What is Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control)
+   1. atlassian.com, _Getting Git Right_, [Source code management](https://www.atlassian.com/git/tutorials/source-code-management)
+   1. atlassian.com, _Getting Git Right_, [What is Git](https://www.atlassian.com/git/tutorials/what-is-git)
+   1. atlassian.com, _Getting Git Right_, [Why use Git for your organization?](https://www.atlassian.com/git/tutorials/why-git)
+   1. atlassian.com, _Getting Git Right_, [How to install Git](https://www.atlassian.com/git/tutorials/install-git)
+
+   1. [Clonare una Repository](./git/clonare.md)
+   1. [Effettuare Modifiche](./git/modificare.md)
+   1. [Un Semplice Modello di Collaborazione](./git/collaborare.md)
+
 <!-- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
 
 <!-- 1. [Diventare Amministratore di Linux](./sysadmin_linux/letture.md) -->
-
-<!-- 1. Git -->
-
-   <!-- 1. [git e github.com](./git/git_github.md)
-   1. [Clonare una Repository](./git/clonare.md)
-   1. [Effettuare Modifiche](./git/modificare.md)
-   1. [Un Semplice Modello di Collaborazione](./git/collaborare.md) -->
 
 <!-- 1. Le pagine HTML -->
 
