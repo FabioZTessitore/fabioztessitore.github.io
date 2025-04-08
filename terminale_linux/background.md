@@ -12,7 +12,7 @@ L'operatore `&` permette di lanciare un comando in _background_ così da
 avere sempre la shell libera. Proviamo:
 
 ```bash
-$ gedit &
+$ gnome-text-edit &
 ```
 
 Per far ritornare in primo piano (_foreground_) il comando lanciato precedentemente in background si usa `fg`.

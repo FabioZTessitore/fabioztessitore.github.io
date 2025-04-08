@@ -51,10 +51,12 @@
    1. atlassian.com, _Getting Git Right_, [What is Git](https://www.atlassian.com/git/tutorials/what-is-git)
    1. atlassian.com, _Getting Git Right_, [Why use Git for your organization?](https://www.atlassian.com/git/tutorials/why-git)
    1. atlassian.com, _Getting Git Right_, [How to install Git](https://www.atlassian.com/git/tutorials/install-git)
-
    1. [Clonare una Repository](./git/clonare.md)
    1. [Effettuare Modifiche](./git/modificare.md)
+   1. atlassian.com, _Getting Git Right_, [Setting up a repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+   1. atlassian.com, _Getting Git Right_, [Saving Changes](https://www.atlassian.com/git/tutorials/saving-changes)
    1. [Un Semplice Modello di Collaborazione](./git/collaborare.md)
+   1. [Esercizio: repository](./git/repo.md)
 
 <!-- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
 

@@ -25,9 +25,8 @@
 > - [What is Git](https://www.atlassian.com/git/tutorials/what-is-git)
 > - [Why use Git for your organization?](https://www.atlassian.com/git/tutorials/why-git)
 > - [How to install Git ](https://www.atlassian.com/git/tutorials/install-git)
-
-<!-- > - [Setting up a repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
-> - [Saving Changes](https://www.atlassian.com/git/tutorials/saving-changes) -->
+> - [Setting up a repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
+> - [Saving Changes](https://www.atlassian.com/git/tutorials/saving-changes)
 
 <!-- > C. Musciano, B. Kennedy, _HTML & XHTML, The Definitive Guide_, O'Reilly, 2006, 6th ed -->
 <!-- > -->
