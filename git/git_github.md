@@ -7,21 +7,24 @@ Torna all'[indice](../toc.md)
 ### GitHub
 
 [GitHub.com](https://github.com) è un servizio online creato per facilitare
-la collaborazione tra sviluppatori. Prima di iniziare ad usarlo bisogna registrarsi.
+la collaborazione tra sviluppatori. Prima di iniziare a usarlo bisogna registrarsi.
 
 Una volta effettuato il primo accesso non sarà difficile capire come creare una nuova _repository_.
 
 > [!INFO]
 > Una repository non è altro che una directory ospitata sui server di GitHub.com
 
-Alla creazione di una nuova repository, si consiglia vivamente di mettere la
+Alla creazione di una nuova repository, necessariamente _public_ per ora,
+si consiglia vivamente di mettere la
 spunta su "creazione di un file README". Così facendo, quando la repository
-remota verrà clonata sul proprio computer (e a breve vedremo come fare), sarà
-già presente questo file su cui effettueremo le prime operazioni.
+remota verrà clonata sul proprio computer (e a breve vedremo come fare), non ci
+saranno problemi di autenticazione e sarà
+già presente il file `README.md` su cui effettueremo le prime operazioni.
 
-Inoltre, nelle impostazioni del progetto, si possono aggiungere dei collaboratori.
-A dispetto del nome non è il metodo migliore per collaborare, ma sarà molto utile
-in queste fasi iniziali, nel caso si abbia bisogno di aiuto da parte di qualcuno più esperto.
+> [!WARNING]
+> Inoltre, nei _Settings_ della repository, si possono aggiungere dei collaboratori.
+> A dispetto del nome non è il metodo migliore per collaborare, ma sarà molto utile
+> in queste fasi iniziali, nel caso si abbia bisogno di aiuto da parte di qualcuno più esperto.
 
 ### git
 
@@ -30,7 +33,7 @@ al codice stesso. Questa operazione prende il nome di _controllo delle versioni_
 
 `git` è un sistema di _controllo delle versioni_ creato da Linus Torvalds, il padre
 di Linux, che si sposa molto bene con il servizio GitHub.com (ma può essere utilizzato
-anche solo in locale o in congiunzione con altri sistemi).
+anche solo in locale o in congiunzione con altri servizi).
 
 Dopo aver installato `git` sul proprio sistema, prima di poterlo utilizzare,
 è necessario effettuare una configurazione. In particolare, le informazioni minime
@@ -56,16 +59,6 @@ $ cat .gitconfig
     email = YOUR@EMAIL
     name = YOUR NAME
 ```
-
-### Letture
-
-> [!TIP] > _Getting Git Right_, [www.atlassian.com/git](https://www.atlassian.com/git)
->
-> - [What is Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control)
-> - [Source code management](https://www.atlassian.com/git/tutorials/source-code-management)
-> - [What is Git](https://www.atlassian.com/git/tutorials/what-is-git)
-> - [Why Git for your organization](https://www.atlassian.com/git/tutorials/why-git)
-> - [Install Git](https://www.atlassian.com/git/tutorials/install-git)
 
 ---
 

@@ -25,12 +25,6 @@ $ ls
 README.md # quella spunta ...
 ```
 
-### Letture
-
-> [!TIP] > _Getting Git Right_, [www.atlassian.com/git](https://www.atlassian.com/git)
->
-> - [Setting up a repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
-
 ---
 
 Torna all'[indice](../toc.md)
