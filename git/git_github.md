@@ -14,7 +14,7 @@ Una volta effettuato il primo accesso non sarà difficile capire come creare una
 > [!INFO]
 > Una repository non è altro che una directory ospitata sui server di GitHub.com
 
-Alla creazione di una nuova repository, necessariamente `public` per ora,
+Alla creazione di una nuova repository, necessariamente _public_ per ora,
 si consiglia vivamente di mettere la
 spunta su "creazione di un file README". Così facendo, quando la repository
 remota verrà clonata sul proprio computer (e a breve vedremo come fare), non ci
