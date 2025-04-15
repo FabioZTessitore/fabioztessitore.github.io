@@ -58,7 +58,23 @@
    1. [Un Semplice Modello di Collaborazione](./git/collaborare.md)
    1. [Esercizio: repository](./git/repo.md)
 
-<!-- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
+1. L'Interprete Python
+
+   1. La conoscenza
+   1. Calcolo della radice quadrata
+   1. Regole dei linguaggi di programmazione
+   1. Tipi elementari
+   1. Espressioni
+
+1. Primo programma
+
+   1. Primo?
+   1.
+   1.
+   1.
+   1.
+
+   <!-- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
 
 <!-- 1. [Diventare Amministratore di Linux](./sysadmin_linux/letture.md) -->
 
