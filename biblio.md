@@ -28,6 +28,11 @@
 > - [Setting up a repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 > - [Saving Changes](https://www.atlassian.com/git/tutorials/saving-changes)
 
+> _Think Python: How to Think Like a Computer Scientist_, [thinkpython](https://www.greenteapress.com/thinkpython/html/index.html)
+>
+> - [Chapter 1 The way of the program](https://www.greenteapress.com/thinkpython/html/thinkpython002.html)
+> - [Chapter 2 Variables, expressions and statements](https://www.greenteapress.com/thinkpython/html/thinkpython003.html)
+
 <!-- > C. Musciano, B. Kennedy, _HTML & XHTML, The Definitive Guide_, O'Reilly, 2006, 6th ed -->
 <!-- > -->
 <!-- > - Chap 1: HTML, XHTML, and the World Wide Web
