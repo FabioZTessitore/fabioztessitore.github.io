@@ -68,7 +68,7 @@
 
 1. Primo programma
 
-   1. Primo?
+   1. [Il primo programma](./primoprogramma/primo.md)
    1.
    1.
    1.
