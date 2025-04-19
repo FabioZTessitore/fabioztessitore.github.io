@@ -33,7 +33,7 @@ Di che tipo è tale valore?
 <class 'int'>
 ```
 
-L'interprete ci dice di che **tipo** è il **valore** `3`. Risponde che si tratta di un `int`, un `valore intero`.
+L'interprete ci dice di che **tipo** è il **valore** `3`. Risponde che si tratta di un `int`, un _valore intero_.
 
 Tentiamo qualcosa di diverso:
 
@@ -42,7 +42,7 @@ Tentiamo qualcosa di diverso:
 <class 'float'>
 ```
 
-`3.2`, invece, viene considerato `float`, un valore in _virgola mobile_ (floating point).
+`3.2`, invece, viene considerato `float`, un valore in _virgola mobile_ (_floating point_).
 
 ```py
 >>> type(3.0)
@@ -100,7 +100,8 @@ Ma non tutto è possibile. Nell'esempio seguente l'interprete non sa come effett
 
 ```py
 >>> int('2.1')
-ValueError
+...
+ValueError: invalid literal for int() with base 10: '2.1'
 ```
 
 Ora invece si!

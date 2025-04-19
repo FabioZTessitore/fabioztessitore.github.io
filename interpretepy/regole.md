@@ -10,9 +10,9 @@ Tutti i linguaggi sono composti da un _alfabeto_ `a b c ... + - * / % { } [ ] ..
 
 Le regole si dividono in:
 
-1. Sintassi
-1. Grammatica
-1. Semantica
+1. Sintassi;
+1. Grammatica;
+1. Semantica.
 
 ### Sintassi
 
@@ -32,7 +32,7 @@ Non tutte le sequenze, anche se corrette dal punto di vista della sintassi, hann
 3 / 'abc' # NO! (pero' la sintassi e' corretta)
 ```
 
-La sintassi della seconda istruzione è corretta perché c'è un valore, il numero `3`, seguito dall'operatore `/`, seguito ancora da un altro valore,la _stringa_ `'abc'`. La sequenza `valore operatore valore` va bene, ma chiaramente non ha senso dividere il numero `3` per la stringa `abc`.
+La sintassi della seconda istruzione è corretta perché c'è un valore, il numero `3`, seguito dall'operatore `/`, seguito ancora da un altro valore, la _stringa_ `'abc'`. La sequenza `valore operatore valore` va bene, ma chiaramente non ha senso dividere il numero `3` per la stringa `abc`.
 
 ### Semantica
 

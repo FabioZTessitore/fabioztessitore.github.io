@@ -17,27 +17,21 @@ Poniamo `g = 1`
 
 `g * g = 1 * 1 = 1` è "troppo distante" da 25, continuiamo.
 
-`g = (g + x/g) / 2 = (1 + 25/1) / 2 = (1 + 25) / 2 = 13`
-
 #### Seconda iterazione
 
-`g = 13`
+`g = (g + x/g) / 2 = (1 + 25/1) / 2 = (1 + 25) / 2 = 13`
 
 `g * g = 13 * 13 = 169` è "troppo distante" da 25, continuiamo.
 
-`g = (g + x/g) / 2 = (13 + 25/13) / 2 = (13 + 1.92) / 2 = 7.46`
-
 #### Terza iterazione
 
-`g = 7.46`
+`g = (g + x/g) / 2 = (13 + 25/13) / 2 = (13 + 1.92) / 2 = 7.46`
 
 `g * g = 7.46 * 7.46 = 55.65` è "troppo distante" da 25, continuiamo.
 
-`g = (g + x/g) / 2 = (7.46 + 25/7.46) / 2 = (7.46 + 3.35) / 2 = 5.40`
-
 #### Quarta iterazione
 
-`g = 5.40`
+`g = (g + x/g) / 2 = (7.46 + 25/7.46) / 2 = (7.46 + 3.35) / 2 = 5.40`
 
 `g * g = 5.40 * 5.40 = 29.16` diciamo che è "abbastanza vicino" a 25. Ormai il senso dovrebbe essere chiaro.
 
