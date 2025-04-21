@@ -28,10 +28,10 @@
 > - [Setting up a repository](https://www.atlassian.com/git/tutorials/setting-up-a-repository)
 > - [Saving Changes](https://www.atlassian.com/git/tutorials/saving-changes)
 
-> _Think Python: How to Think Like a Computer Scientist_, [thinkpython](https://www.greenteapress.com/thinkpython/html/index.html)
+> Allen B. Downey, _Think Python: How to Think Like a Computer Scientist_, 3th ed, [thinkpython](https://allendowney.github.io/ThinkPython/)
 >
-> - [Chapter 1 The way of the program](https://www.greenteapress.com/thinkpython/html/thinkpython002.html)
-> - [Chapter 2 Variables, expressions and statements](https://www.greenteapress.com/thinkpython/html/thinkpython003.html)
+> - [Chapter 1 Programming as a way of thinking](https://allendowney.github.io/ThinkPython/chap01.html)
+> - [Chapter 2 Variables and Statements](https://allendowney.github.io/ThinkPython/chap02.html)
 
 <!-- > C. Musciano, B. Kennedy, _HTML & XHTML, The Definitive Guide_, O'Reilly, 2006, 6th ed -->
 <!-- > -->
