@@ -15,7 +15,7 @@ x = 3
 print(x)
 ```
 
-Esso crea un'associazione tra il nome `x` e il valore `3`.
+Esse creano un'associazione tra il nome `x` e il valore `3`.
 
 ---
 
