@@ -15,8 +15,6 @@ $ cd helloworld
 $ touch helloworld.py
 ```
 
-> Il file `helloworld.py`
-
 <script src="https://gist.github.com/FabioZTessitore/1d52280435424afc4e4e853271ca53f7.js"></script>
 
 Le righe che iniziano con il carattere `#` (_hash_), sono commenti, e verranno ignorate dall'interprete.

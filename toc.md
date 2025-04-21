@@ -69,18 +69,24 @@
 1. Primo programma
 
    1. [Il primo programma](./primoprogramma/primo.md)
-   1.
-   1.
-   1.
-   1.
+   1. [Le variabili](./primoprogramma/variabili.md)
+   1. allendowney.github.io, _Think Python_,
+      [Chapter 1 Programming as a way of thinking](https://allendowney.github.io/ThinkPython/chap01.html)
+   1. allendowney.github.io, _Think Python_,
+      [Chapter 2 Variables and Statements](https://allendowney.github.io/ThinkPython/chap02.html)
+   1. [L'input da tastiera](./primoprogramma/input.md)
+   1. [Esercizio: hello](./primoprogramma/hello.md)
+   1. [Esercizio: doppio](./primoprogramma/doppio.md)
+   1. [Esercizio: cubo](./primoprogramma/cubo.md)
+   1. [Esercizio: sfera](./primoprogramma/sfera.md)
 
-   <!-- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
+   <!--- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
 
-<!-- 1. [Diventare Amministratore di Linux](./sysadmin_linux/letture.md) -->
+<!--- 1. [Diventare Amministratore di Linux](./sysadmin_linux/letture.md) -->
 
-<!-- 1. Le pagine HTML -->
+<!--- 1. Le pagine HTML -->
 
-   <!-- 1.  [Struttura di una Pagina HTML](./html/dochtml.md)
+   <!--- 1.  [Struttura di una Pagina HTML](./html/dochtml.md)
    1.  [Gestione del Testo](./html/testo.md)
    1.  [Collegamenti Ipertestuali](./html/links.md)
    1.  [Le Liste](./html/lists.md)
@@ -88,10 +94,10 @@
    1.  [Tag Semantici](./html/semantic.md)
    1.  [I Form](./html/forms.md) -->
 
-   <!-- 1. [Esercizio: documento di testo]() -->
-   <!-- 1. [Esercizio: form]() -->
+   <!--- 1. [Esercizio: documento di testo]() -->
+   <!--- 1. [Esercizio: form]() -->
 
-   <!--
+   <!---
    1. Approfondimenti HTML
     Inserire qui le letture consigliate, HTML Dog Intermediate e Advanced
    -->
