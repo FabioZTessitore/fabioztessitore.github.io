@@ -33,6 +33,11 @@
 > - [Chapter 1 Programming as a way of thinking](https://allendowney.github.io/ThinkPython/chap01.html)
 > - [Chapter 2 Variables and Statements](https://allendowney.github.io/ThinkPython/chap02.html)
 
+> P. Deitel, H. Deitel, _C, How To Program, with an Introduction to C++_, Pearson, 8th ed.
+>
+> - Chap 1: Introduction to Computers, the Internet and the Web
+> - Chap 2: Introduction to C Programming
+
 <!-- > C. Musciano, B. Kennedy, _HTML & XHTML, The Definitive Guide_, O'Reilly, 2006, 6th ed -->
 <!-- > -->
 <!-- > - Chap 1: HTML, XHTML, and the World Wide Web
