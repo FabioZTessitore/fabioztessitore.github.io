@@ -79,6 +79,7 @@
    1. [Esercizio: doppio](./primoprogramma/doppio.md)
    1. [Esercizio: cubo](./primoprogramma/cubo.md)
    1. [Esercizio: sfera](./primoprogramma/sfera.md)
+   1. [Esercizio: mancia](./primoprogramma/mancia.md)
 
    <!--- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
 
