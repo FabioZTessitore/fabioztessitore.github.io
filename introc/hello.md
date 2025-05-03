@@ -1,4 +1,4 @@
-#
+# Il primo programma C
 
 Torna all'[indice](../toc.md)
 
@@ -8,22 +8,22 @@ Torna all'[indice](../toc.md)
 
 Scrivere programmi in C richiede qualche attenzione in più rispetto al Python.
 Per cominciare non si può semplicemente digitare una sequenza di istruzioni,
-ma è necessario fare come segue:
+ma è necessario scrivere quanto segue:
 
 ```c
+// un programma C che non fa nulla!
+
 int main(void)
 {
     // inserire qui le istruzioni
 }
 ```
 
-Al momento basta sapere solo alcune cose:
+Al momento non importa capire i dettagli di queste righe. Ci basti sapere che:
 
-- Le istruzioni vanno inserite dopo la partentesi graffa aperta che segue `main()`
-- Le istruzioni C terminano con il carattere `;`
-- La sequenza di caratteri `//` inizia un commento che termina con la fine della linea
-
-Nel codice precedente non c'è alcuna istruzione.
+- Le istruzioni vanno inserite dopo la partentesi graffa aperta che segue `main()`;
+- Le istruzioni C terminano con il carattere `;` (non ce ne sono in questo codice);
+- La sequenza di caratteri `//` inizia un commento che termina con la fine della linea.
 
 ### Stampare una stringa
 
@@ -44,7 +44,9 @@ Per farla breve, se si fa uso della funzione `printf()` bisogna inserire la riga
 
 <script src="https://gist.github.com/FabioZTessitore/6c39070772280c27c51fdd4b591567e3.js"></script>
 
-Il simbolo `\n` si legge _newline_ e ordina a `printf()` di andare a capo dopo aver stampato il messaggio `"Hello, World!"`.
+Il simbolo `%s` è una _specifica di stampa_ e indica a `printf()` che vogliamo stampare una stringa.
+Il simbolo `\n`, presente al termine della stringa da stampare, si legge _newline_ e ordina a `printf()`
+di andare a capo dopo aver stampato il messaggio `"Hello, World!"`.
 
 Il linguaggio C non è interpretato come il Python, ma compilato. Questo significa che il
 codice sorgente deve subire delle trasformazioni prima di diventare _eseguibile_ dalla macchina.
@@ -58,7 +60,7 @@ $ gcc -std=c11 -c hello.c -o hello.o
 ```
 
 Link (collegamento) della libreria standard C (quella che contiene il codice della funzione `printf()`);
-ottiene come output l'eseguibile `hello`
+ottiene come output l'eseguibile `hello`.
 
 ```bash
 $ gcc hello.o -o hello
