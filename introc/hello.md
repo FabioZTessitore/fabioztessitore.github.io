@@ -45,7 +45,7 @@ Per farla breve, se si fa uso della funzione `printf()` bisogna inserire la riga
 <script src="https://gist.github.com/FabioZTessitore/6c39070772280c27c51fdd4b591567e3.js"></script>
 
 Il simbolo `%s` è una _specifica di stampa_ e indica a `printf()` che vogliamo stampare una stringa.
-Il simbolo `\n`, presente al termine della stringa da stampare, si legge _newline_ e ordina a `printf()`
+Il simbolo `\n`, presente dopo la specifica di stampa, si legge _newline_ e ordina a `printf()`
 di andare a capo dopo aver stampato il messaggio `"Hello, World!"`.
 
 Il linguaggio C non è interpretato come il Python, ma compilato. Questo significa che il

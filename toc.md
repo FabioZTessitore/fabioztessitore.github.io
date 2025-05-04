@@ -86,6 +86,8 @@
    1. P. Deitel, H. Deitel, C, How To Program, Chap 1: Introduction to Computers, the Internet and the Web
    1. P. Deitel, H. Deitel, C, How To Program, Chap 2: Introduction to C Programming
    1. [Esercizio: fullname](./introc/name.md)
+   1. [Le variabili](./introc/variabili.md)
+   1. [L'input](./introc/input.md)
 
 <!--- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
 
