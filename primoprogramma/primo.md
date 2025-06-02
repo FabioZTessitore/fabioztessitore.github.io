@@ -23,7 +23,7 @@ Le righe che iniziano con il carattere `#` (_hash_) sono commenti e verranno ign
 Per mandare in esecuzione, chiediamo all'interprete:
 
 ```bash
-$ python helloworld.py
+$ python3 helloworld.py
 Hello, World!
 ```
 

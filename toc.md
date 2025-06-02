@@ -66,7 +66,7 @@
    1. [Tipi elementari](./interpretepy/tipi.md)
    1. [Espressioni](./interpretepy/espressioni.md)
 
-1. Primo programma
+1. Primi programmi
 
    1. [Il primo programma](./primoprogramma/primo.md)
    1. [Le variabili](./primoprogramma/variabili.md)
@@ -81,7 +81,15 @@
    1. [Esercizio: sfera](./primoprogramma/sfera.md)
    1. [Esercizio: mancia](./primoprogramma/mancia.md)
 
-   <!--- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
+1. Introduzione al linguaggio C
+   1. [Il primo programma C](./introc/hello.md)
+   1. P. Deitel, H. Deitel, C, How To Program, Chap 1: Introduction to Computers, the Internet and the Web
+   1. P. Deitel, H. Deitel, C, How To Program, Chap 2: Introduction to C Programming
+   1. [Esercizio: fullname](./introc/name.md)
+   1. [Le variabili](./introc/variabili.md)
+   1. [L'input](./introc/input.md)
+
+<!--- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
 
 <!--- 1. [Diventare Amministratore di Linux](./sysadmin_linux/letture.md) -->
 
