@@ -19,7 +19,7 @@ viene quindi etichettato con `name` (creazione della variabile) e può essere st
 Nell'esempio è mostrato anche come eseguire una stampa formattata!
 
 ```bash
-$ python name.py
+$ python3 name.py
 Come ti chiami?
 Marco
 Ciao Marco
