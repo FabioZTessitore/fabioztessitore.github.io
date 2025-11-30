@@ -1,6 +1,6 @@
 # Gli argomenti dei comandi
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -34,4 +34,4 @@ $ ls --hide=Documenti
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

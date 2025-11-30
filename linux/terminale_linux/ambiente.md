@@ -1,6 +1,6 @@
 # L'ambiente della shell
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -84,4 +84,4 @@ per raggiungere la directory.
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

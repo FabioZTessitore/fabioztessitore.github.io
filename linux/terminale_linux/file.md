@@ -1,6 +1,6 @@
 # Esercizio
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -13,4 +13,4 @@ visualizzarne il contenuto.
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

@@ -1,6 +1,6 @@
 # Connettere i comandi
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -67,4 +67,4 @@ $ du /bin/* | sort -nr | head
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

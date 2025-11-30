@@ -1,6 +1,6 @@
 # Il prompt dei comandi
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -58,4 +58,4 @@ Scrivania Wallpapers work
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

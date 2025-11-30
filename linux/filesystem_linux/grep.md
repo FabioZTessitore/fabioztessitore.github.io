@@ -1,6 +1,6 @@
 # Cercare nei file
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -29,4 +29,4 @@ $ history | grep git # Cerca i comandi git nello storico
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

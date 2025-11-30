@@ -1,6 +1,6 @@
 # Installazione di Linux
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -20,4 +20,4 @@ Torna all'[indice](../toc.md)
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

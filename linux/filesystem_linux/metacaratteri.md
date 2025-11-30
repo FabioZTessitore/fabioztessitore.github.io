@@ -1,6 +1,6 @@
 # I metacaratteri
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -99,4 +99,4 @@ ape bici grappolo ghepardo garage
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

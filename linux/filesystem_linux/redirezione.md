@@ -1,6 +1,6 @@
 # La redirezione
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -75,4 +75,4 @@ contenuto. In questi casi possiamo usare `>>`:
 $ cat /etc/group >> copia_password # Aggiunge il contenuto di /etc/group a copia_password
 ```
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

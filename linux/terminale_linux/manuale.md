@@ -1,6 +1,6 @@
 # Le pagine del manuale
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -61,4 +61,4 @@ $ date +%d-%m-%Y
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

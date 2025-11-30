@@ -1,6 +1,6 @@
 # La struttura del filesystem
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -21,4 +21,4 @@ Altre directory comuni sono:
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

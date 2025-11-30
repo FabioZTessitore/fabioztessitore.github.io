@@ -1,6 +1,6 @@
 # Copiare, spostare, rinominare
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -64,4 +64,4 @@ $ cp -r progetti progetti_backup_2016_11_27
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

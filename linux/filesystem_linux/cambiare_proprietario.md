@@ -1,6 +1,6 @@
 # Cambiare il proprietario
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -32,4 +32,4 @@ $ ls -l test
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

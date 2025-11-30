@@ -1,6 +1,6 @@
 # Gli alias
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -46,4 +46,4 @@ $ unalias p
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

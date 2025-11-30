@@ -1,6 +1,6 @@
 # Ottenere Linux
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -10,4 +10,4 @@ Se non sai quale scegliere, un buon punto di partenza potrebbe essere [Ubuntu](h
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
