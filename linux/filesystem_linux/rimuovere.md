@@ -1,6 +1,6 @@
 # Rimuovere file e directory
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -62,4 +62,4 @@ $ rm -r progetti    # ATTENZIONE, cancella tutto il contenuto di progetti
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

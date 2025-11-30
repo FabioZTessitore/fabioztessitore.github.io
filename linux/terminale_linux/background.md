@@ -1,6 +1,6 @@
 # Comandi in background
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -23,4 +23,4 @@ $ fg
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

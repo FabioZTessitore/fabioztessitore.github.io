@@ -1,6 +1,6 @@
 # Dove sono i comandi
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -79,4 +79,4 @@ ls e' /bin/ls
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

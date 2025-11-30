@@ -1,6 +1,6 @@
 # Cambiare i permessi
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -84,4 +84,4 @@ $ ls -l file_test2
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

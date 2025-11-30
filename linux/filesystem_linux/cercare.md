@@ -1,6 +1,6 @@
 # Cercare file
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -220,4 +220,4 @@ $ find /home -size +5M -exec du {} \\; | sort -nr
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

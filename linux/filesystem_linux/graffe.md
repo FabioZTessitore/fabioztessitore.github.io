@@ -1,6 +1,6 @@
 # Le parentesi graffe
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -50,4 +50,4 @@ a1 a2 a3 a4 a5 b1 b2 b3 ... f4 f5
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

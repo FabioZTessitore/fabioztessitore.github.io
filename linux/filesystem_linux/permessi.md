@@ -1,6 +1,6 @@
 # I permessi
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -107,4 +107,4 @@ per _attraversare_ `css` in modo da raggiungere `base`.
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

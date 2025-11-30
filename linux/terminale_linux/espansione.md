@@ -1,6 +1,6 @@
 # Espansione delle variabili, delle espressioni aritmetiche, dei comandi
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -73,4 +73,4 @@ nella directory (il numero di parole contato da `wc -w`).
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

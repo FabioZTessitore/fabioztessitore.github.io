@@ -1,6 +1,6 @@
 # Lo storico dei comandi
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -65,4 +65,4 @@ facendo risparmiare tempo e fatica ed evitando, al contempo, anche errori di bat
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

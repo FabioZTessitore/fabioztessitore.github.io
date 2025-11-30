@@ -1,6 +1,6 @@
 # Creare file e directory
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -73,4 +73,4 @@ $ touch hello.js
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

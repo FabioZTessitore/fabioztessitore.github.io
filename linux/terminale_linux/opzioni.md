@@ -1,6 +1,6 @@
 # Le opzioni dei comandi
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -97,4 +97,4 @@ nella sua interezza e non come una lista di opzioni separate.
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

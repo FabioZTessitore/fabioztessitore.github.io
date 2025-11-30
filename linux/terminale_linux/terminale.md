@@ -1,6 +1,6 @@
 # Il terminale
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -25,4 +25,4 @@ Basta cercarla tra quelle disponibili!
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)

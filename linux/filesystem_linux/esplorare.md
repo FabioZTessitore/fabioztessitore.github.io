@@ -1,6 +1,6 @@
 # Esplorare il filesystem
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
 
 ---
 
@@ -146,4 +146,4 @@ $ pwd
 
 ---
 
-Torna all'[indice](../toc.md)
+Torna all'[indice](../../toc.md)
