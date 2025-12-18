@@ -10,14 +10,7 @@ Scrivere programmi in C richiede qualche attenzione in più rispetto al Python.
 Per cominciare non si può semplicemente digitare una sequenza di istruzioni,
 ma è necessario scrivere quanto segue:
 
-```c
-// un programma C che non fa nulla!
-
-int main(void)
-{
-    // inserire qui le istruzioni
-}
-```
+<script src="https://gist.github.com/FabioZTessitore/c7b7e0cde9433e064a39a1e1b038429a.js"></script>
 
 Al momento non importa capire i dettagli di queste righe. Ci basti sapere che:
 
