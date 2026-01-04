@@ -88,6 +88,9 @@
    1. [Esercizio: fullname](./introc/name.md)
    1. [Le variabili](./introc/variabili.md)
    1. [L'input](./introc/input.md)
+   1. [L'operatore modulo](./introc/modulo.md)
+   1. [Esercizio: operazioni](./introc/operazioni.md)
+   1. [Esercizio: cerchio](./introc/cerchio.md)
 
 <!--- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
 
