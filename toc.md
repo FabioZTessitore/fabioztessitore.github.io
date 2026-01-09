@@ -82,6 +82,7 @@
    1. [Esercizio: mancia](./primoprogramma/mancia.md)
 
 1. Introduzione al linguaggio C
+
    1. [Il primo programma C](./introc/hello.md)
    1. P. Deitel, H. Deitel, C, How To Program, Chap 1: Introduction to Computers, the Internet and the Web
    1. P. Deitel, H. Deitel, C, How To Program, Chap 2: Introduction to C Programming
@@ -91,6 +92,8 @@
    1. [L'operatore modulo](./introc/modulo.md)
    1. [Esercizio: operazioni](./introc/operazioni.md)
    1. [Esercizio: cerchio](./introc/cerchio.md)
+
+1. [Progetto Endurance](./progetti/endurance.md)
 
 <!--- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
 
