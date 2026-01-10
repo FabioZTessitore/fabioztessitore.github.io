@@ -16,7 +16,7 @@ Il programma tenga conto di eventuali input negativi. In tal caso stampi un oppo
 
 Esempio di output:
 
-```bash
+```
 Endurance
 Determina la durata massima di volo conoscendo
 la quantità di carburante ed il consumo orario.
