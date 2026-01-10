@@ -95,6 +95,8 @@
 
 1. [Progetto Endurance](./progetti/endurance.md)
 
+1. [Progetto Banconote](./progetti/banconote.md)
+
 <!--- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
 
 <!--- 1. [Diventare Amministratore di Linux](./sysadmin_linux/letture.md) -->
