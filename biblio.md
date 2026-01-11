@@ -41,9 +41,12 @@
 > [_Android Training Course_](https://developer.android.com/courses)
 >
 > - [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
->   - [Introduction to Kotlin](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1)
+>   - [First Android App](https://developer.android.com/courses/android-basics-compose/unit-1)
+>     - [Introduction to Kotlin](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1)
 
 > [_How To Become A Hacker_](http://www.catb.org/~esr/faqs/hacker-howto.html)
+
+> - [Setup Android Studio](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2)
 
 <!-- > C. Musciano, B. Kennedy, _HTML & XHTML, The Definitive Guide_, O'Reilly, 2006, 6th ed -->
 <!-- > -->

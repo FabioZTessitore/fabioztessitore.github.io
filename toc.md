@@ -97,9 +97,14 @@
 
 1. [Progetto Banconote](./progetti/banconote.md)
 
+1. [_How To Become A Hacker_](http://www.catb.org/~esr/faqs/hacker-howto.html)
+
 1. [Introduzione al linguaggio Kotlin](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1)
 
-1. [_How To Become A Hacker_](http://www.catb.org/~esr/faqs/hacker-howto.html)
+   1. [Your first program in Kotlin](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-program?authuser=1&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-1%3Fauthuser%3D1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-first-program#0)
+   1. [Create and use variables in Kotlin](https://developer.android.com/codelabs/basic-android-kotlin-compose-variables?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-variables#0)
+   1. [Create and use functions in Kotlin](https://developer.android.com/codelabs/basic-android-kotlin-compose-functions?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-functions#0)
+   1. [Practice Problems: Kotlin Basics](https://developer.android.com/codelabs/basic-android-kotlin-compose-intro-kotlin-practice-problems?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-intro-kotlin-practice-problems#0)
 
 <!--- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
 
