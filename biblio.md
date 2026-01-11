@@ -43,6 +43,8 @@
 > - [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
 >   - [Introduction to Kotlin](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1)
 
+> [_How To Become A Hacker_](http://www.catb.org/~esr/faqs/hacker-howto.html)
+
 <!-- > C. Musciano, B. Kennedy, _HTML & XHTML, The Definitive Guide_, O'Reilly, 2006, 6th ed -->
 <!-- > -->
 <!-- > - Chap 1: HTML, XHTML, and the World Wide Web
