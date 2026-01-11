@@ -97,6 +97,8 @@
 
 1. [Progetto Banconote](./progetti/banconote.md)
 
+1. [Introduzione al linguaggio Kotlin](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1)
+
 <!--- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
 
 <!--- 1. [Diventare Amministratore di Linux](./sysadmin_linux/letture.md) -->

@@ -38,6 +38,11 @@
 > - Chap 1: Introduction to Computers, the Internet and the Web
 > - Chap 2: Introduction to C Programming
 
+> [_Android Training Course_](https://developer.android.com/courses)
+>
+> - [Android Basics with Compose](https://developer.android.com/courses/android-basics-compose/course)
+>   - [Introduction to Kotlin](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1)
+
 <!-- > C. Musciano, B. Kennedy, _HTML & XHTML, The Definitive Guide_, O'Reilly, 2006, 6th ed -->
 <!-- > -->
 <!-- > - Chap 1: HTML, XHTML, and the World Wide Web
