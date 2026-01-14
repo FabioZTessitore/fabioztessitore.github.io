@@ -47,36 +47,23 @@
 >     - [Introduction to Kotlin](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1)
 >     - [Setup Android Studio](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2)
 
-<!-- > C. Musciano, B. Kennedy, _HTML & XHTML, The Definitive Guide_, O'Reilly, 2006, 6th ed -->
-<!-- > -->
-<!-- > - Chap 1: HTML, XHTML, and the World Wide Web
-> - Chap 2: Quick Start
-> - Chap 3: Anatomy of an HTML Document
-> - Chap 4: Text Basics
-> - Chap 5: Rules, Images, and Multimedia
-> - Chap 6: Links and Webs
-> - Chap 7: Formatted Lists
-> - Chap 8: Cascading Style Sheets
-> - Chap 9: Forms
-> - Chap 10: Tables -->
-
-<!-- > _HTML Dog_, [www.htmldog.com](https://www.htmldog.com/) -->
-<!-- > -->
-<!-- > HTML Tutorial -->
-<!-- > -->
-<!-- > > HTML Beginner Tutorial -->
-<!-- > -->
-<!-- > - [Getting Started](https://www.htmldog.com/guides/html/beginner/gettingstarted/)
-> - [Tags, Attributes, and Elements](https://www.htmldog.com/guides/html/beginner/tags/)
-> - [Page Titles](https://www.htmldog.com/guides/html/beginner/titles/)
-> - [Paragraphs](https://www.htmldog.com/guides/html/beginner/paragraphs/)
-> - [Headings](https://www.htmldog.com/guides/html/beginner/headings/)
-> - [Lists](https://www.htmldog.com/guides/html/beginner/lists/)
-> - [Links](https://www.htmldog.com/guides/html/beginner/links/)
-> - [Images](https://www.htmldog.com/guides/html/beginner/images/)
-> - [Tables](https://www.htmldog.com/guides/html/beginner/tables/)
-> - [Forms](https://www.htmldog.com/guides/html/beginner/forms/)
-> - [Putting It All Together](https://www.htmldog.com/guides/html/beginner/conclusion/) -->
+> _HTML Dog_, [www.htmldog.com](https://www.htmldog.com/)
+>
+> HTML Tutorial
+>
+> - HTML Beginner Tutorial
+>
+>   - [Getting Started](https://www.htmldog.com/guides/html/beginner/gettingstarted/)
+>   - [Tags, Attributes, and Elements](https://www.htmldog.com/guides/html/beginner/tags/)
+>   - [Page Titles](https://www.htmldog.com/guides/html/beginner/titles/)
+>   - [Paragraphs](https://www.htmldog.com/guides/html/beginner/paragraphs/)
+>   - [Headings](https://www.htmldog.com/guides/html/beginner/headings/)
+>   - [Lists](https://www.htmldog.com/guides/html/beginner/lists/)
+>   - [Links](https://www.htmldog.com/guides/html/beginner/links/)
+>   - [Images](https://www.htmldog.com/guides/html/beginner/images/)
+>   - [Tables](https://www.htmldog.com/guides/html/beginner/tables/)
+>   - [Forms](https://www.htmldog.com/guides/html/beginner/forms/)
+>   - [Putting It All Together](https://www.htmldog.com/guides/html/beginner/conclusion/)
 
 <!-- > > HTML Intermediate Tutorial -->
 <!-- > -->

@@ -46,14 +46,6 @@ navigazione. Essendo elementi che ricorrono spesso se ne riporta un esempio:
 </nav>
 ```
 
-### Letture
-
-> [!TIP] > _HTML Dog_, [www.htmldog.com](https://www.htmldog.com/)
->
-> HTML Tutorial
->
-> - [Sectioning](https://www.htmldog.com/guides/html/intermediate/sectioning/)
-
 ---
 
 Torna all'[indice](../toc.md)

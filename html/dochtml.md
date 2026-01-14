@@ -10,18 +10,13 @@ Per visualizzare un documento HTML utilizziamo programmi chiamati browser.
 I browser parlano con i server web tramite Internet per accedere e rendere visibili i documenti.
 
 L'HTML definisce la sintassi di elementi particolari che non verranno visualizzati dal
-browser, ma indicheranno come mostrare il contenuto. Quindi la prima cosa da capire e su
+browser, ma indicheranno come mostrarne il contenuto. Quindi il primo concetto da capire e su
 cui sperimentare è che una pagina HTML non è niente altro che un file di testo semplice.
 
-Proviamo, allora, a creare una semplice pagina Web. Apriamo un editor di testi
-e digitiamo come nell'esempio:
+Proviamo, allora, a creare una semplice pagina Web aprendo un editor di testi
+e digitando come nell'esempio:
 
-```html
-<!-- index.html -->
-
-Benvenuto nella mia Home Page Qui puoi trovare tutte le informazioni che cerchi
-...
-```
+<script src="https://gist.github.com/FabioZTessitore/a48e36fbff711b8fba3d0c73eb3f88a5.js"></script>
 
 Salviamo il file con il nome `index.html` e apriamo la pagina con un browser.
 Ci sono differenze tra quello che abbiamo scritto e quello che viene visualizzato?
@@ -44,15 +39,7 @@ Si possono anche inserire commenti: `<!-- questo e' un commento -->`.
 
 Modifichiamo, quindi, il file `index.html` in questo modo:
 
-```html
-<!-- index.html -->
-
-<!-- la mia prima pagina Web -->
-
-<p>Benvenuto nella mia Home Page</p>
-
-<p>Qui puoi trovare tutte le informazioni che cerchi ...</p>
-```
+<script src="https://gist.github.com/FabioZTessitore/de955dcd8e0283d9135c9d3ac403445a.js"></script>
 
 Adesso il browser visualizzerà correttamente.
 
@@ -119,32 +106,7 @@ utilizzando l'_HTML5_, scriveremo:
 
 Ecco la pagina completa:
 
-```html
-<!DOCTYPE html>
-
-<!-- La pagina e' composta da un unico elemento html -->
-<html lang="it">
-  <!-- Ogni pagina e' composta da due sezioni: head e body
-    
-        In head trovano posto le informazioni riguardanti il documento.
-        In body trova posto il documento stesso.
-    -->
-
-  <head>
-    <!-- indica al browser il set di caratteri -->
-    <meta charset="utf-8" />
-
-    <!-- titolo del documento -->
-    <title>La mia prima pagina completa</title>
-  </head>
-
-  <body>
-    <p>Benvenuto nella mia Home Page</p>
-
-    <p>Qui puoi trovare tutte le informazioni che cerchi ...</p>
-  </body>
-</html>
-```
+<script src="https://gist.github.com/FabioZTessitore/a1053e60474c50ddeef419b08a4dddbd.js"></script>
 
 ### Suggerimenti
 
@@ -159,29 +121,11 @@ vogliamo e verrà generato il testo. Un copia e incolla e avremo siti pieni di c
 L'altro sito, [Lorem Picsum](https://picsum.photos/), riguarda invece le immagini.
 Non c'è neanche bisogno di accedere al sito stesso, basterà mettere l'indirizzo al posto
 della URL dell'immagine e il gioco è fatto. Se, per esempio, si ha bisogno di un'immagine
-di 320x200 pixel si può scrivere una cosa del tipo:
+di 320x200 pixel si può scrivere:
 
 ```html
 <img src="https://picsum.photos/320/200" />
 ```
-
-### Letture
-
-> [!TIP]
-> C. Musciano, B. Kennedy, _HTML & XHTML, The Definitive Guide_, O'Reilly, 2006, 6th ed
->
-> - Chap 1: HTML, XHTML, and the World Wide Web
-> - Chap 2: Quick Start
-> - Chap 3: Anatomy of an HTML Document
-
-> [!TIP] > _HTML Dog_, [www.htmldog.com](https://www.htmldog.com/)
->
-> HTML Tutorial
->
-> - [Getting Started](https://www.htmldog.com/guides/html/beginner/gettingstarted/)
-> - [Tags, Attributes, and Elements](https://www.htmldog.com/guides/html/beginner/tags/)
-> - [Page Titles](https://www.htmldog.com/guides/html/beginner/titles/)
-> - [Paragraphs](https://www.htmldog.com/guides/html/beginner/paragraphs/)
 
 ---
 
