@@ -119,11 +119,28 @@
    1. [I Form](./html/forms.md)
    1. www.htmldog.com, _HTML Beginner Tutorial_, [Forms](https://www.htmldog.com/guides/html/beginner/forms/)
    1. www.htmldog.com, _HTML Beginner Tutorial_, [Putting It All Together](https://www.htmldog.com/guides/html/beginner/conclusion/)
+
+1. HTML, Corso Intermedio
+
+   1. www.htmldog.com, _HTML Intermediate Tutorial_, [Span and Div](https://www.htmldog.com/guides/html/intermediate/spandiv/)
+   1. www.htmldog.com, _HTML Intermediate Tutorial_, [Text: Abbreviations, Quotations, and Code](https://www.htmldog.com/guides/html/intermediate/text/)
+   1. www.htmldog.com, _HTML Intermediate Tutorial_, [Meta Tags](https://www.htmldog.com/guides/html/intermediate/metatags/)
+   1. www.htmldog.com, _HTML Intermediate Tutorial_, [Tables: rowspan and colspan](https://www.htmldog.com/guides/html/intermediate/tables/)
+   1. www.htmldog.com, _HTML Intermediate Tutorial_, [Description Lists](https://www.htmldog.com/guides/html/intermediate/definitionlists/)
+   1. www.htmldog.com, _HTML Intermediate Tutorial_, [Text: Addresses, Definitions, Bi-directional, and Editorial](https://www.htmldog.com/guides/html/intermediate/text2/)
+   1. www.htmldog.com, _HTML Intermediate Tutorial_, [Sectioning](https://www.htmldog.com/guides/html/intermediate/sectioning/)
    1. [Esercizio: documento HTML](./html/viaggiare.md)
 
-<!-- 1. HTML, Corso Intermedio
+1. HTML, Corso Avanzato
 
-   1. Approfondimenti HTML Inserire qui le letture consigliate, HTML Dog Intermediate e Advanced -->
+   1. www.htmldog.com, _HTML Advanced Tutorial_, [Text: Time, Mark, and “Presentational”](https://www.htmldog.com/guides/html/advanced/text/)
+   1. www.htmldog.com, _HTML Advanced Tutorial_, [Conditional Comments](https://www.htmldog.com/guides/html/advanced/conditionalcomments/)
+   1. www.htmldog.com, _HTML Advanced Tutorial_, [Tables: Columns, Headers, and Footers](https://www.htmldog.com/guides/html/advanced/tables/)
+   1. www.htmldog.com, _HTML Advanced Tutorial_, [Accessible Links](https://www.htmldog.com/guides/html/advanced/links/)
+   1. www.htmldog.com, _HTML Advanced Tutorial_, [Accessible Forms](https://www.htmldog.com/guides/html/advanced/forms/)
+   1. www.htmldog.com, _HTML Advanced Tutorial_, [HTML5 Forms Pt. 1: Input Types](https://www.htmldog.com/guides/html/advanced/html5forms1/)
+   1. www.htmldog.com, _HTML Advanced Tutorial_, [HTML5 Forms Pt. 2: Attributes and Data Lists](https://www.htmldog.com/guides/html/advanced/html5forms2/)
+   1. www.htmldog.com, _HTML Advanced Tutorial_, [Embedded Content: Video, Audio, and Canvas](https://www.htmldog.com/guides/html/advanced/embeddedcontent/)
 
 1. [Introduzione al linguaggio Kotlin](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1)
 

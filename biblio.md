@@ -65,12 +65,23 @@
 >   - [Forms](https://www.htmldog.com/guides/html/beginner/forms/)
 >   - [Putting It All Together](https://www.htmldog.com/guides/html/beginner/conclusion/)
 
-<!-- > > HTML Intermediate Tutorial -->
-<!-- > -->
-<!-- > - [Span and Div](https://www.htmldog.com/guides/html/intermediate/spandiv/) -->
-<!-- > - [Text: Abbreviations, Quotations, and Code](https://www.htmldog.com/guides/html/intermediate/text/) -->
-<!-- > - [Meta Tags](https://www.htmldog.com/guides/html/intermediate/metatags/)
+> - HTML Intermediate Tutorial
+>
+> - [Span and Div](https://www.htmldog.com/guides/html/intermediate/spandiv/)
+> - [Text: Abbreviations, Quotations, and Code](https://www.htmldog.com/guides/html/intermediate/text/)
+> - [Meta Tags](https://www.htmldog.com/guides/html/intermediate/metatags/)
 > - [Tables: rowspan and colspan](https://www.htmldog.com/guides/html/intermediate/tables/)
 > - [Description Lists](https://www.htmldog.com/guides/html/intermediate/definitionlists/)
 > - [Text: Addresses, Definitions, Bi-directional, and Editorial](https://www.htmldog.com/guides/html/intermediate/text2/)
-> - [Sectioning](https://www.htmldog.com/guides/html/intermediate/sectioning/) -->
+> - [Sectioning](https://www.htmldog.com/guides/html/intermediate/sectioning/)
+
+> - HTML Advanced Tutorial
+>
+> - [Text: Time, Mark, and “Presentational”](https://www.htmldog.com/guides/html/advanced/text/)
+> - [Conditional Comments](https://www.htmldog.com/guides/html/advanced/conditionalcomments/)
+> - [Tables: Columns, Headers, and Footers](https://www.htmldog.com/guides/html/advanced/tables/)
+> - [Accessible Links](https://www.htmldog.com/guides/html/advanced/links/)
+> - [Accessible Forms](https://www.htmldog.com/guides/html/advanced/forms/)
+> - [HTML5 Forms Pt. 1: Input Types](https://www.htmldog.com/guides/html/advanced/html5forms1/)
+> - [HTML5 Forms Pt. 2: Attributes and Data Lists](https://www.htmldog.com/guides/html/advanced/html5forms2/)
+> - [Embedded Content: Video, Audio, and Canvas](https://www.htmldog.com/guides/html/advanced/embeddedcontent/)

@@ -4,7 +4,7 @@ Torna all'[indice](../toc.md)
 
 ---
 
-Creare una repository su GitHub chiamata **html-base**
+Creare una repository su GitHub chiamata **html**
 ed utilizzarla per caricare questo esercizio.
 
 ## Viaggiare
