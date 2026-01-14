@@ -6,7 +6,7 @@ Torna all'[indice](../toc.md)
 
 Le tabelle sono utili per mostrare dati in formato tabulare. In passato sono
 state utilizzate anche per gestire il layout della pagina, ma questo tipo di
-utilizzo deve essere evitato.
+utilizzo deve essere evitato oggigiorno.
 
 Per creare una tabella utilizziamo il tag `table`. Al suo interno trovano posto
 le righe `tr` e all'interno delle righe inseriremo le celle, che possono essere
@@ -38,13 +38,14 @@ Per inserire una didascalia c'è `caption`.
 
 ### Sezioni
 
-Le righe di una tabella non sono tutte uguali. Quelle di intestazione e quelle
+Le righe di una tabella non sono tutte uguali. Quella di intestazione e quella
 di chiusura non sono come quelle centrali che contengono i dati.
-Il tag `thead` permette di raggruppare le righe di intestazione. Può essercene
+Il tag `thead` permette di selezionare la riga di intestazione. Può essercene
 solo una per tabella e compare all'inizio. Allo stesso modo il tag `tfoot`
-permette di raggruppare le righe di chiusura, può essercene solo uno e compare
+seleziona la riga di chiusura, può essercene solo uno e compare
 dopo `thead`. Infine `tbody` raggruppa le righe centrali con i dati.
-In una tabella possono essere definiti anche più `tbody` se necessario per separare i dati in blocchi.
+In una tabella possono essere definiti anche più `tbody`,
+se necessario per separare i dati in blocchi.
 
 ```html
 <table>
@@ -77,19 +78,6 @@ In una tabella possono essere definiti anche più `tbody` se necessario per sepa
   </tbody>
 </table>
 ```
-
-### Letture
-
-> [!TIP]
-> C. Musciano, B. Kennedy, _HTML & XHTML, The Definitive Guide_, O'Reilly, 2006, 6th ed
->
-> - Chap 10: Tables
-
-> [!TIP] > _HTML Dog_, [www.htmldog.com](https://www.htmldog.com/)
->
-> HTML Tutorial
->
-> - [Tables](https://www.htmldog.com/guides/html/beginner/tables/)
 
 ---
 

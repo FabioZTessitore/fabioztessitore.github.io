@@ -44,21 +44,6 @@ intestazione, corrispondenti ai tag `h1`, `h2`, `h3`, `h4`, `h5`, `h6`.
 <p>Altro testo</p>
 ```
 
-### Letture
-
-> [!TIP]
-> C. Musciano, B. Kennedy, _HTML & XHTML, The Definitive Guide_, O'Reilly, 2006, 6th ed
->
-> - Chap 4: Text Basics
-> - Chap 5: Rules, Images, and Multimedia
-
-> [!TIP] > _HTML Dog_, [www.htmldog.com](https://www.htmldog.com/)
->
-> HTML Tutorial
->
-> - [Headings](https://www.htmldog.com/guides/html/beginner/headings/)
-> - [Images](https://www.htmldog.com/guides/html/beginner/images/)
-
 ---
 
 Torna all'[indice](../toc.md)

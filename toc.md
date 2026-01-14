@@ -99,6 +99,32 @@
 
 1. [_How To Become A Hacker_](http://www.catb.org/~esr/faqs/hacker-howto.html)
 
+1. HTML, Corso Base
+
+   1. [Struttura di una Pagina HTML](./html/dochtml.md)
+   1. www.htmldog.com, _HTML Beginner Tutorial_, [Getting Started](https://www.htmldog.com/guides/html/beginner/gettingstarted/)
+   1. www.htmldog.com, _HTML Beginner Tutorial_, [Tags, Attributes and Elements](https://www.htmldog.com/guides/html/beginner/tags/)
+   1. www.htmldog.com, _HTML Beginner Tutorial_, [Page Titles](https://www.htmldog.com/guides/html/beginner/titles/)
+   1. www.htmldog.com, _HTML Beginner Tutorial_, [Paragraphs](https://www.htmldog.com/guides/html/beginner/paragraphs/)
+   1. [Gestione del Testo](./html/testo.md)
+   1. www.htmldog.com, _HTML Beginner Tutorial_, [Headings](https://www.htmldog.com/guides/html/beginner/headings/)
+   1. www.htmldog.com, _HTML Beginner Tutorial_, [Images](https://www.htmldog.com/guides/html/beginner/images/)
+   1. [Le Liste](./html/lists.md)
+   1. www.htmldog.com, _HTML Beginner Tutorial_, [Lists](https://www.htmldog.com/guides/html/beginner/lists/)
+   1. [Collegamenti Ipertestuali](./html/links.md)
+   1. www.htmldog.com, _HTML Beginner Tutorial_, [Links](https://www.htmldog.com/guides/html/beginner/links/)
+   1. [Le Tabelle](./html/tables.md)
+   1. www.htmldog.com, _HTML Beginner Tutorial_, [Tables](https://www.htmldog.com/guides/html/beginner/tables/)
+   1. [Tag Semantici](./html/semantic.md)
+   1. [I Form](./html/forms.md)
+   1. www.htmldog.com, _HTML Beginner Tutorial_, [Forms](https://www.htmldog.com/guides/html/beginner/forms/)
+   1. www.htmldog.com, _HTML Beginner Tutorial_, [Putting It All Together](https://www.htmldog.com/guides/html/beginner/conclusion/)
+   1. [Esercizio: documento HTML](./html/viaggiare.md)
+
+<!-- 1. HTML, Corso Intermedio
+
+   1. Approfondimenti HTML Inserire qui le letture consigliate, HTML Dog Intermediate e Advanced -->
+
 1. [Introduzione al linguaggio Kotlin](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1)
 
    1. [Your first program in Kotlin](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-program?authuser=1&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-1%3Fauthuser%3D1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-first-program#0)
@@ -116,18 +142,3 @@
 <!--- 1. [Diventare Utente Esperto di Linux (altre letture)](./poweruser_linux/altre_letture.md) -->
 
 <!--- 1. [Diventare Amministratore di Linux](./sysadmin_linux/letture.md) -->
-
-<!--- 1. Le pagine HTML -->
-
-   <!--- 1.  [Struttura di una Pagina HTML](./html/dochtml.md)  -->
-   <!--- 1.  [Gestione del Testo](./html/testo.md) -->
-   <!--- 1.  [Collegamenti Ipertestuali](./html/links.md) -->
-   <!--- 1.  [Le Liste](./html/lists.md) -->
-   <!--- 1.  [Le Tabelle](./html/tables.md) -->
-   <!--- 1.  [Tag Semantici](./html/semantic.md) -->
-   <!--- 1.  [I Form](./html/forms.md) -->
-
-   <!--- 1. [Esercizio: documento di testo]() -->
-   <!--- 1. [Esercizio: form]() -->
-
-   <!--- 1. Approfondimenti HTML Inserire qui le letture consigliate, HTML Dog Intermediate e Advanced -->
