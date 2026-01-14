@@ -17,96 +17,96 @@ Requisiti obbligatori
 
 1. Struttura di base del documento
 
-Il file deve:
+   Il file deve:
 
-- Essere un documento HTML5 valido
-- Avere l’attributo lang impostato correttamente
-- Includere:
-  - `<!DOCTYPE html>`
-  - `<html>`, `<head>`, `<body>`
-  - `<meta charset="UTF-8">`
-  - `<title>` significativo
+   - Essere un documento HTML5 valido
+   - Avere l’attributo lang impostato correttamente
+   - Includere:
+     - `<!DOCTYPE html>`
+     - `<html>`, `<head>`, `<body>`
+     - `<meta charset="UTF-8">`
+     - `<title>` significativo
 
 2. Struttura semantica della pagina
 
-La pagina deve essere organizzata utilizzando tag semantici HTML5, tra cui:
+   La pagina deve essere organizzata utilizzando tag semantici HTML5, tra cui:
 
-- `<header>`
-- `<nav>`
-- `<main>`
-- `<section>`
-- `<article>`
-- `<aside>`
-- `<footer>`
+   - `<header>`
+   - `<nav>`
+   - `<main>`
+   - `<section>`
+   - `<article>`
+   - `<aside>`
+   - `<footer>`
 
-Usali in modo coerente e logico.
+   Usali in modo coerente e logico.
 
 3. Intestazioni e paragrafi
 
-- Utilizza correttamente i tag di intestazione (`<h1>`–`<h6>`) rispettando la gerarchia
-- Inserisci più paragrafi con `<p>`
-- Usa anche elementi di testo semantici come:
-  - `<strong>`
-  - `<em>`
+   - Utilizza correttamente i tag di intestazione (`<h1>`–`<h6>`) rispettando la gerarchia
+   - Inserisci più paragrafi con `<p>`
+   - Usa anche elementi di testo semantici come:
+     - `<strong>`
+     - `<em>`
 
 4. Immagini
 
-- Inserisci almeno un’immagine
-- L’immagine deve essere contenuta in un elemento semantico adeguato (`<figure>`)
-- Deve avere:
-  - attributo alt
-  - una `<figcaption>`
+   - Inserisci almeno un’immagine
+   - L’immagine deve essere contenuta in un elemento semantico adeguato (`<figure>`)
+   - Deve avere:
+     - attributo alt
+     - una `<figcaption>`
 
 5. Liste
 
-Inserisci:
+   Inserisci:
 
-- Una lista non ordinata
-- Una lista ordinata
+   - Una lista non ordinata
+   - Una lista ordinata
 
 6. Collegamenti ipertestuali
 
-Almeno due link:
+   Almeno due link:
 
-- uno verso un sito esterno
-- uno interno alla pagina (ancora)
+   - uno verso un sito esterno
+   - uno interno alla pagina (ancora)
 
-Usa il tag `<nav>` per i link di navigazione
+   Usa il tag `<nav>` per i link di navigazione
 
 7. Tabella
 
-Crea una tabella che mostri, ad esempio, destinazioni e costi medi.
+   Crea una tabella che mostri, ad esempio, destinazioni e costi medi.
 
-La tabella deve includere:
+   La tabella deve includere:
 
-- `<table>`
-- `<caption>`
-- `<thead>`, `<tbody>`
-- `<th>`
-- `<tr>` e `<td>`
+   - `<table>`
+   - `<caption>`
+   - `<thead>`, `<tbody>`
+   - `<th>`
+   - `<tr>` e `<td>`
 
 8. Form
 
-Inserisci un modulo di contatto che contenga:
+   Inserisci un modulo di contatto che contenga:
 
-- `<form>`
-- `<fieldset>` e `<legend>`
-- `<label>` associati correttamente ai campi
-- Campi di input di tipo diverso, ad esempio:
-  - text
-  - email
-  - date
-  - radio o checkbox
-- Una `<textarea>`
-- Una `<select>` con almeno 3 opzioni
-- Un pulsante di invio (`<button>` o `<input type="submit">`)
+   - `<form>`
+   - `<fieldset>` e `<legend>`
+   - `<label>` associati correttamente ai campi
+   - Campi di input di tipo diverso, ad esempio:
+     - text
+     - email
+     - date
+     - radio o checkbox
+   - Una `<textarea>`
+   - Una `<select>` con almeno 3 opzioni
+   - Un pulsante di invio (`<button>` o `<input type="submit">`)
 
 9. Contenuti aggiuntivi
 
-Nel documento devono comparire anche:
+   Nel documento devono comparire anche:
 
-- Un commento HTML (`<!-- -->`)
-- Un elemento `<address>` nel footer
+   - Un commento HTML (`<!-- -->`)
+   - Un elemento `<address>` nel footer
 
 [Soluzione](https://github.com/FabioZTessitore/laboratorio/tree/master/esercizi/html-corso-base/index.html)
 
