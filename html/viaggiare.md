@@ -108,7 +108,7 @@ Requisiti obbligatori
    - Un commento HTML (`<!-- -->`)
    - Un elemento `<address>` nel footer
 
-[Soluzione](https://github.com/FabioZTessitore/laboratorio/tree/master/esercizi/html-corso-base/index.html)
+[Soluzione](https://github.com/FabioZTessitore/laboratorio/tree/master/esercizi/html/index.html)
 
 ---
 
