@@ -1,5 +1,4 @@
 1. Installazione di Linux
-
    1. [Ottenere Linux](./linux/install_linux/ottenere_linux.md)
    1. C. Negus, Linux Bible, Chap 1: Starting with Linux
    1. C. Negus, Linux Bible, Chap 2: Creating the Perfect Linux Desktop
@@ -9,7 +8,6 @@
    1. [Installare Linux](./linux/install_linux/installazione.md)
 
 1. Il Terminale di Linux
-
    1. [Il Terminale](./linux/terminale_linux/terminale.md)
    1. [Il Prompt dei Comandi](./linux/terminale_linux/prompt.md)
    1. [Le Opzioni dei Comandi](./linux/terminale_linux/opzioni.md)
@@ -26,7 +24,6 @@
    1. [Esercizio: download e lettura di un file](./linux/terminale_linux/file.md)
 
 1. Il Filesystem di Linux
-
    1. [La Struttura del Filesystem](./linux/filesystem_linux/struttura.md)
    1. [Esplorare il Filesystem](./linux/filesystem_linux/esplorare.md)
    1. [Creare File e Directory](./linux/filesystem_linux/directory.md)
@@ -44,7 +41,6 @@
    1. C. Negus, Linux Bible, Chap 5: Working with Text Files
 
 1. Git e GitHub
-
    1. [git e github.com](./git/git_github.md)
    1. atlassian.com, _Getting Git Right_, [What is Version Control](https://www.atlassian.com/git/tutorials/what-is-version-control)
    1. atlassian.com, _Getting Git Right_, [Source code management](https://www.atlassian.com/git/tutorials/source-code-management)
@@ -59,7 +55,6 @@
    1. [Esercizio: repository](./git/repo.md)
 
 1. L'Interprete Python
-
    1. [La conoscenza](./interpretepy/conoscenza.md)
    1. [Calcolo della radice quadrata](./interpretepy/radice.md)
    1. [Regole dei linguaggi di programmazione](./interpretepy/regole.md)
@@ -67,7 +62,6 @@
    1. [Espressioni](./interpretepy/espressioni.md)
 
 1. Primi programmi
-
    1. [Il primo programma](./primoprogramma/primo.md)
    1. [Le variabili](./primoprogramma/variabili.md)
    1. allendowney.github.io, _Think Python_,
@@ -82,7 +76,6 @@
    1. [Esercizio: mancia](./primoprogramma/mancia.md)
 
 1. Introduzione al linguaggio C
-
    1. [Il primo programma C](./introc/hello.md)
    1. P. Deitel, H. Deitel, C, How To Program, Chap 1: Introduction to Computers, the Internet and the Web
    1. P. Deitel, H. Deitel, C, How To Program, Chap 2: Introduction to C Programming
@@ -100,7 +93,6 @@
 1. [_How To Become A Hacker_](http://www.catb.org/~esr/faqs/hacker-howto.html)
 
 1. HTML, Corso Base
-
    1. [Struttura di una Pagina HTML](./html/dochtml.md)
    1. www.htmldog.com, _HTML Beginner Tutorial_, [Getting Started](https://www.htmldog.com/guides/html/beginner/gettingstarted/)
    1. www.htmldog.com, _HTML Beginner Tutorial_, [Tags, Attributes and Elements](https://www.htmldog.com/guides/html/beginner/tags/)
@@ -121,7 +113,6 @@
    1. www.htmldog.com, _HTML Beginner Tutorial_, [Putting It All Together](https://www.htmldog.com/guides/html/beginner/conclusion/)
 
 1. HTML, Corso Intermedio
-
    1. www.htmldog.com, _HTML Intermediate Tutorial_, [Span and Div](https://www.htmldog.com/guides/html/intermediate/spandiv/)
    1. www.htmldog.com, _HTML Intermediate Tutorial_, [Text: Abbreviations, Quotations, and Code](https://www.htmldog.com/guides/html/intermediate/text/)
    1. www.htmldog.com, _HTML Intermediate Tutorial_, [Meta Tags](https://www.htmldog.com/guides/html/intermediate/metatags/)
@@ -132,8 +123,7 @@
    1. [Esercizio: documento HTML](./html/viaggiare.md)
 
 1. HTML, Corso Avanzato
-
-   1. www.htmldog.com, _HTML Advanced Tutorial_, [Text: Time, Mark, and “Presentational”](https://www.htmldog.com/guides/html/advanced/text/)
+   1. www.htmldog.com, _HTML Advanced Tutorial_, [Text: Time, Mark, and "Presentational"](https://www.htmldog.com/guides/html/advanced/text/)
    1. www.htmldog.com, _HTML Advanced Tutorial_, [Conditional Comments](https://www.htmldog.com/guides/html/advanced/conditionalcomments/)
    1. www.htmldog.com, _HTML Advanced Tutorial_, [Tables: Columns, Headers, and Footers](https://www.htmldog.com/guides/html/advanced/tables/)
    1. www.htmldog.com, _HTML Advanced Tutorial_, [Accessible Links](https://www.htmldog.com/guides/html/advanced/links/)
@@ -143,14 +133,12 @@
    1. www.htmldog.com, _HTML Advanced Tutorial_, [Embedded Content: Video, Audio, and Canvas](https://www.htmldog.com/guides/html/advanced/embeddedcontent/)
 
 1. [Introduzione al linguaggio Kotlin](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-1)
-
    1. [Your first program in Kotlin](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-program?authuser=1&continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-1%3Fauthuser%3D1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-first-program#0)
    1. [Create and use variables in Kotlin](https://developer.android.com/codelabs/basic-android-kotlin-compose-variables?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-variables#0)
    1. [Create and use functions in Kotlin](https://developer.android.com/codelabs/basic-android-kotlin-compose-functions?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-functions#0)
    1. [Practice Problems: Kotlin Basics](https://developer.android.com/codelabs/basic-android-kotlin-compose-intro-kotlin-practice-problems?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-1%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-intro-kotlin-practice-problems#0)
 
 1. [Setup Android Studio](https://developer.android.com/courses/pathways/android-basics-compose-unit-1-pathway-2)
-
    1. [Download and install Android Studio](https://developer.android.com/codelabs/basic-android-kotlin-compose-install-android-studio?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-2%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-install-android-studio#0)
    1. [Create your first Android app](https://developer.android.com/codelabs/basic-android-kotlin-compose-first-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-2%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-first-app#0)
    1. [Run your first app on the Android Emulator](https://developer.android.com/codelabs/basic-android-kotlin-compose-emulator?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-compose-unit-1-pathway-2%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-compose-emulator#0)
